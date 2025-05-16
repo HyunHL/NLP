@@ -1,0 +1,2501 @@
+patient_id,description,triage_level
+P00001,Severe persistent trauma noted after a fall.,2
+P00002,moderate seizure observed during daily activities.,2
+P00003,mild shortness of breath was triggered by stress at work.,1
+P00004,Mild mild sore throat reported with no other symptoms.,4
+P00005,Severe moderate chest pain noted after a fall.,1
+P00006,intermittent abdominal pain experienced without loss of consciousness.,4
+P00007,Complains of persistent trauma along with mild fever.,1
+P00008,Symptoms started with persistent chest pain and then progressed.,2
+P00009,intermittent fever with signs of confusion.,4
+P00010,persistent cough present along with weakness.,3
+P00011,intermittent cough has interfered with appetite.,5
+P00012,persistent trauma experienced without loss of consciousness.,2
+P00013,severe nausea began suddenly and is worsening.,4
+P00014,Complains of mild abdominal pain along with mild fever.,4
+P00015,intermittent seizure started during the night and affected breathing.,1
+P00016,Mild mild trauma reported with no other symptoms.,1
+P00017,History of severe abdominal pain worsening over two days.,3
+P00018,moderate fever observed during daily activities.,2
+P00019,Complaint of intermittent cough after exposure to heat.,3
+P00020,moderate chest pain and dizziness reported together.,2
+P00021,severe sore throat and dizziness reported together.,4
+P00022,severe seizure following long travel.,2
+P00023,Complains of moderate dizziness along with mild fever.,3
+P00024,mild chest pain present along with weakness.,2
+P00025,severe seizure observed during daily activities.,1
+P00026,Symptoms include moderate fatigue and difficulty sleeping.,5
+P00027,Severe mild abdominal pain noted after a fall.,3
+P00028,Patient reports mild vomiting after exercise.,3
+P00029,Mild persistent fatigue reported with no other symptoms.,4
+P00030,Symptoms include mild trauma and difficulty sleeping.,1
+P00031,Symptoms include severe fever and difficulty sleeping.,2
+P00032,Mild mild vomiting reported with no other symptoms.,3
+P00033,intermittent sore throat observed during daily activities.,4
+P00034,Symptoms started with persistent fever and then progressed.,2
+P00035,Complaint of mild sore throat after exposure to heat.,5
+P00036,Symptoms include intermittent fatigue and difficulty sleeping.,5
+P00037,mild seizure began suddenly and is worsening.,1
+P00038,Complaint of moderate fever after exposure to heat.,4
+P00039,intermittent headache present along with weakness.,4
+P00040,mild fever seen with stable vitals.,2
+P00041,intermittent cough began suddenly and is worsening.,3
+P00042,moderate sore throat following long travel.,5
+P00043,severe cough seen with stable vitals.,5
+P00044,severe trauma started during the night and affected breathing.,2
+P00045,moderate vomiting seen with stable vitals.,2
+P00046,Complaint of mild cough after exposure to heat.,3
+P00047,Mild mild chest pain reported with no other symptoms.,2
+P00048,severe abdominal pain began suddenly and is worsening.,3
+P00049,severe skin rash has interfered with appetite.,4
+P00050,Symptoms started with moderate nausea and then progressed.,3
+P00051,Complaint of persistent chest pain after exposure to heat.,1
+P00052,severe trauma was triggered by stress at work.,1
+P00053,moderate vomiting began suddenly and is worsening.,3
+P00054,moderate sore throat experienced without loss of consciousness.,5
+P00055,Patient reports intermittent chest pain after exercise.,2
+P00056,severe shortness of breath started during the night and affected breathing.,2
+P00057,moderate cough has interfered with appetite.,5
+P00058,moderate abdominal pain observed during daily activities.,4
+P00059,severe headache present along with weakness.,3
+P00060,persistent unconsciousness experienced without loss of consciousness.,1
+P00061,Complaint of intermittent dizziness after exposure to heat.,4
+P00062,Complaint of intermittent seizure after exposure to heat.,2
+P00063,Mild mild unconsciousness reported with no other symptoms.,1
+P00064,persistent abdominal pain began suddenly and is worsening.,4
+P00065,Symptoms started with moderate cough and then progressed.,5
+P00066,severe chest pain present along with weakness.,2
+P00067,Symptoms include mild fatigue and difficulty sleeping.,5
+P00068,mild shortness of breath following long travel.,2
+P00069,Severe severe skin rash noted after a fall.,4
+P00070,mild chest pain and dizziness reported together.,2
+P00071,severe abdominal pain and dizziness reported together.,4
+P00072,Mild intermittent headache reported with no other symptoms.,3
+P00073,Patient reports intermittent dizziness after exercise.,4
+P00074,Mild severe shortness of breath reported with no other symptoms.,2
+P00075,History of persistent trauma worsening over two days.,1
+P00076,mild fatigue with signs of confusion.,4
+P00077,severe dizziness present along with weakness.,3
+P00078,Symptoms started with mild fever and then progressed.,4
+P00079,mild vomiting present along with weakness.,3
+P00080,moderate dizziness occurred with vomiting and nausea.,4
+P00081,Symptoms started with mild fatigue and then progressed.,4
+P00082,Severe moderate cough noted after a fall.,3
+P00083,intermittent abdominal pain seen with stable vitals.,4
+P00084,persistent cough and dizziness reported together.,3
+P00085,Severe intermittent dizziness noted after a fall.,4
+P00086,intermittent fatigue present along with weakness.,5
+P00087,moderate trauma has interfered with appetite.,2
+P00088,Severe persistent shortness of breath noted after a fall.,1
+P00089,moderate trauma seen with stable vitals.,2
+P00090,Complains of intermittent sore throat along with mild fever.,4
+P00091,Complaint of mild unconsciousness after exposure to heat.,1
+P00092,mild shortness of breath seen with stable vitals.,1
+P00093,intermittent vomiting seen with stable vitals.,3
+P00094,moderate shortness of breath observed during daily activities.,1
+P00095,intermittent vomiting observed during daily activities.,3
+P00096,History of moderate abdominal pain worsening over two days.,4
+P00097,History of mild skin rash worsening over two days.,5
+P00098,mild sore throat seen with stable vitals.,4
+P00099,persistent dizziness and dizziness reported together.,4
+P00100,persistent seizure present along with weakness.,2
+P00101,mild fever observed during daily activities.,4
+P00102,Severe severe sore throat noted after a fall.,5
+P00103,severe cough occurred with vomiting and nausea.,5
+P00104,Complains of intermittent nausea along with mild fever.,3
+P00105,severe skin rash was triggered by stress at work.,4
+P00106,moderate skin rash following long travel.,5
+P00107,History of severe seizure worsening over two days.,1
+P00108,moderate headache occurred with vomiting and nausea.,4
+P00109,Complains of mild fever along with mild fever.,4
+P00110,Severe persistent fever noted after a fall.,4
+P00111,severe trauma experienced without loss of consciousness.,2
+P00112,mild cough observed during daily activities.,5
+P00113,Complains of moderate skin rash along with mild fever.,4
+P00114,Severe moderate dizziness noted after a fall.,4
+P00115,Complains of severe chest pain along with mild fever.,1
+P00116,Complains of persistent fatigue along with mild fever.,4
+P00117,intermittent dizziness present along with weakness.,4
+P00118,History of intermittent headache worsening over two days.,3
+P00119,severe chest pain started during the night and affected breathing.,1
+P00120,Severe severe headache noted after a fall.,3
+P00121,Mild persistent seizure reported with no other symptoms.,2
+P00122,mild headache was triggered by stress at work.,4
+P00123,Symptoms include intermittent seizure and difficulty sleeping.,1
+P00124,severe fever seen with stable vitals.,4
+P00125,moderate sore throat seen with stable vitals.,5
+P00126,moderate seizure occurred with vomiting and nausea.,2
+P00127,moderate abdominal pain present along with weakness.,3
+P00128,Complaint of severe unconsciousness after exposure to heat.,1
+P00129,mild seizure with signs of confusion.,1
+P00130,Patient reports intermittent vomiting after exercise.,3
+P00131,persistent dizziness observed during daily activities.,3
+P00132,intermittent trauma occurred with vomiting and nausea.,2
+P00133,severe fatigue occurred with vomiting and nausea.,5
+P00134,severe nausea following long travel.,4
+P00135,moderate trauma and dizziness reported together.,2
+P00136,persistent sore throat observed during daily activities.,4
+P00137,persistent abdominal pain with signs of confusion.,4
+P00138,severe abdominal pain observed during daily activities.,4
+P00139,Severe moderate abdominal pain noted after a fall.,3
+P00140,moderate cough experienced without loss of consciousness.,5
+P00141,severe nausea occurred with vomiting and nausea.,4
+P00142,persistent shortness of breath present along with weakness.,1
+P00143,moderate chest pain began suddenly and is worsening.,2
+P00144,intermittent shortness of breath and dizziness reported together.,1
+P00145,mild headache started during the night and affected breathing.,3
+P00146,intermittent fever present along with weakness.,4
+P00147,moderate fatigue began suddenly and is worsening.,5
+P00148,Complaint of moderate nausea after exposure to heat.,4
+P00149,moderate shortness of breath started during the night and affected breathing.,2
+P00150,moderate cough seen with stable vitals.,3
+P00151,severe fatigue seen with stable vitals.,4
+P00152,History of mild headache worsening over two days.,4
+P00153,moderate skin rash seen with stable vitals.,4
+P00154,intermittent seizure and dizziness reported together.,2
+P00155,intermittent skin rash present along with weakness.,5
+P00156,Patient reports persistent sore throat after exercise.,4
+P00157,Severe mild fever noted after a fall.,4
+P00158,moderate sore throat observed during daily activities.,4
+P00159,moderate nausea was triggered by stress at work.,4
+P00160,Symptoms include moderate trauma and difficulty sleeping.,2
+P00161,Patient reports severe dizziness after exercise.,3
+P00162,intermittent unconsciousness started during the night and affected breathing.,1
+P00163,Complains of moderate seizure along with mild fever.,1
+P00164,mild dizziness was triggered by stress at work.,3
+P00165,Complains of severe abdominal pain along with mild fever.,4
+P00166,Symptoms include mild chest pain and difficulty sleeping.,1
+P00167,intermittent abdominal pain occurred with vomiting and nausea.,4
+P00168,mild unconsciousness present along with weakness.,1
+P00169,mild headache observed during daily activities.,4
+P00170,Complaint of moderate vomiting after exposure to heat.,3
+P00171,moderate fever occurred with vomiting and nausea.,4
+P00172,Symptoms started with mild unconsciousness and then progressed.,1
+P00173,mild sore throat following long travel.,5
+P00174,mild trauma began suddenly and is worsening.,2
+P00175,Severe moderate nausea noted after a fall.,3
+P00176,History of intermittent chest pain worsening over two days.,1
+P00177,persistent dizziness has interfered with appetite.,4
+P00178,moderate nausea occurred with vomiting and nausea.,4
+P00179,intermittent vomiting following long travel.,2
+P00180,Complains of intermittent fever along with mild fever.,2
+P00181,mild seizure occurred with vomiting and nausea.,2
+P00182,severe skin rash occurred with vomiting and nausea.,4
+P00183,Complaint of severe chest pain after exposure to heat.,2
+P00184,moderate shortness of breath experienced without loss of consciousness.,1
+P00185,moderate trauma occurred with vomiting and nausea.,2
+P00186,moderate dizziness observed during daily activities.,4
+P00187,moderate cough was triggered by stress at work.,3
+P00188,moderate chest pain present along with weakness.,2
+P00189,persistent seizure with signs of confusion.,1
+P00190,Symptoms include persistent abdominal pain and difficulty sleeping.,4
+P00191,intermittent skin rash occurred with vomiting and nausea.,5
+P00192,severe abdominal pain following long travel.,3
+P00193,intermittent seizure seen with stable vitals.,2
+P00194,moderate abdominal pain began suddenly and is worsening.,3
+P00195,persistent fever seen with stable vitals.,2
+P00196,mild seizure was triggered by stress at work.,2
+P00197,moderate cough with signs of confusion.,3
+P00198,Symptoms include moderate cough and difficulty sleeping.,5
+P00199,Mild mild dizziness reported with no other symptoms.,4
+P00200,Symptoms started with intermittent skin rash and then progressed.,5
+P00201,Symptoms started with persistent abdominal pain and then progressed.,3
+P00202,mild chest pain seen with stable vitals.,2
+P00203,Patient reports severe unconsciousness after exercise.,1
+P00204,intermittent fever was triggered by stress at work.,2
+P00205,mild vomiting experienced without loss of consciousness.,2
+P00206,mild skin rash has interfered with appetite.,4
+P00207,persistent chest pain with signs of confusion.,1
+P00208,Complains of intermittent headache along with mild fever.,4
+P00209,Severe persistent vomiting noted after a fall.,2
+P00210,Complaint of mild dizziness after exposure to heat.,3
+P00211,persistent fatigue occurred with vomiting and nausea.,4
+P00212,Complaint of severe shortness of breath after exposure to heat.,1
+P00213,Patient reports mild fever after exercise.,2
+P00214,severe fatigue with signs of confusion.,5
+P00215,persistent headache began suddenly and is worsening.,3
+P00216,intermittent shortness of breath with signs of confusion.,2
+P00217,severe vomiting seen with stable vitals.,3
+P00218,severe vomiting has interfered with appetite.,2
+P00219,moderate skin rash has interfered with appetite.,5
+P00220,mild dizziness observed during daily activities.,4
+P00221,persistent abdominal pain was triggered by stress at work.,4
+P00222,Symptoms started with mild shortness of breath and then progressed.,1
+P00223,intermittent shortness of breath experienced without loss of consciousness.,2
+P00224,mild sore throat observed during daily activities.,5
+P00225,intermittent vomiting experienced without loss of consciousness.,2
+P00226,intermittent trauma following long travel.,2
+P00227,intermittent unconsciousness has interfered with appetite.,1
+P00228,Complains of mild headache along with mild fever.,4
+P00229,moderate chest pain with signs of confusion.,1
+P00230,severe fatigue experienced without loss of consciousness.,5
+P00231,severe abdominal pain seen with stable vitals.,3
+P00232,moderate shortness of breath and dizziness reported together.,1
+P00233,severe shortness of breath and dizziness reported together.,1
+P00234,severe seizure and dizziness reported together.,1
+P00235,intermittent nausea started during the night and affected breathing.,4
+P00236,Mild intermittent fever reported with no other symptoms.,2
+P00237,moderate chest pain started during the night and affected breathing.,2
+P00238,intermittent nausea observed during daily activities.,3
+P00239,Symptoms include moderate sore throat and difficulty sleeping.,4
+P00240,severe dizziness seen with stable vitals.,4
+P00241,Mild intermittent dizziness reported with no other symptoms.,4
+P00242,Patient reports persistent skin rash after exercise.,5
+P00243,Complains of intermittent vomiting along with mild fever.,3
+P00244,persistent sore throat seen with stable vitals.,4
+P00245,severe seizure started during the night and affected breathing.,1
+P00246,History of severe headache worsening over two days.,3
+P00247,mild abdominal pain experienced without loss of consciousness.,4
+P00248,Complaint of intermittent vomiting after exposure to heat.,2
+P00249,mild trauma following long travel.,2
+P00250,persistent vomiting present along with weakness.,3
+P00251,persistent fatigue experienced without loss of consciousness.,5
+P00252,Symptoms started with mild headache and then progressed.,3
+P00253,History of intermittent nausea worsening over two days.,4
+P00254,Severe severe abdominal pain noted after a fall.,4
+P00255,moderate chest pain experienced without loss of consciousness.,2
+P00256,mild shortness of breath occurred with vomiting and nausea.,2
+P00257,Patient reports mild seizure after exercise.,1
+P00258,mild skin rash present along with weakness.,4
+P00259,History of mild cough worsening over two days.,5
+P00260,mild chest pain was triggered by stress at work.,2
+P00261,Severe mild skin rash noted after a fall.,4
+P00262,intermittent headache was triggered by stress at work.,4
+P00263,Symptoms started with severe fatigue and then progressed.,5
+P00264,Patient reports intermittent headache after exercise.,4
+P00265,moderate cough following long travel.,5
+P00266,History of severe unconsciousness worsening over two days.,1
+P00267,Mild severe abdominal pain reported with no other symptoms.,3
+P00268,Symptoms started with mild dizziness and then progressed.,3
+P00269,Mild persistent nausea reported with no other symptoms.,3
+P00270,intermittent trauma was triggered by stress at work.,1
+P00271,intermittent fever started during the night and affected breathing.,2
+P00272,History of persistent fever worsening over two days.,2
+P00273,History of moderate vomiting worsening over two days.,2
+P00274,severe fever occurred with vomiting and nausea.,4
+P00275,Symptoms include intermittent dizziness and difficulty sleeping.,3
+P00276,severe skin rash began suddenly and is worsening.,4
+P00277,mild vomiting observed during daily activities.,2
+P00278,moderate unconsciousness seen with stable vitals.,1
+P00279,intermittent abdominal pain present along with weakness.,4
+P00280,severe abdominal pain experienced without loss of consciousness.,4
+P00281,persistent trauma and dizziness reported together.,1
+P00282,intermittent sore throat and dizziness reported together.,5
+P00283,intermittent dizziness began suddenly and is worsening.,4
+P00284,persistent seizure was triggered by stress at work.,1
+P00285,Symptoms started with intermittent dizziness and then progressed.,4
+P00286,Symptoms include persistent headache and difficulty sleeping.,3
+P00287,Complains of moderate abdominal pain along with mild fever.,4
+P00288,persistent nausea seen with stable vitals.,4
+P00289,mild nausea experienced without loss of consciousness.,3
+P00290,moderate nausea has interfered with appetite.,3
+P00291,Complains of severe sore throat along with mild fever.,5
+P00292,severe sore throat started during the night and affected breathing.,4
+P00293,mild headache seen with stable vitals.,4
+P00294,Complains of moderate unconsciousness along with mild fever.,1
+P00295,moderate trauma with signs of confusion.,2
+P00296,intermittent trauma present along with weakness.,2
+P00297,persistent headache with signs of confusion.,3
+P00298,mild headache has interfered with appetite.,3
+P00299,Symptoms started with persistent fatigue and then progressed.,4
+P00300,mild nausea following long travel.,4
+P00301,Patient reports moderate shortness of breath after exercise.,2
+P00302,persistent abdominal pain has interfered with appetite.,3
+P00303,intermittent cough was triggered by stress at work.,3
+P00304,mild skin rash occurred with vomiting and nausea.,5
+P00305,severe cough and dizziness reported together.,5
+P00306,Symptoms include persistent skin rash and difficulty sleeping.,5
+P00307,severe skin rash experienced without loss of consciousness.,4
+P00308,intermittent sore throat following long travel.,5
+P00309,Mild moderate cough reported with no other symptoms.,5
+P00310,Severe severe cough noted after a fall.,3
+P00311,severe skin rash and dizziness reported together.,5
+P00312,Complains of severe unconsciousness along with mild fever.,1
+P00313,Symptoms started with severe shortness of breath and then progressed.,1
+P00314,Symptoms started with severe trauma and then progressed.,2
+P00315,History of persistent vomiting worsening over two days.,3
+P00316,moderate abdominal pain with signs of confusion.,4
+P00317,intermittent fever occurred with vomiting and nausea.,4
+P00318,Patient reports severe headache after exercise.,4
+P00319,Complains of severe fever along with mild fever.,4
+P00320,Complains of mild sore throat along with mild fever.,4
+P00321,Complains of moderate trauma along with mild fever.,2
+P00322,persistent fever began suddenly and is worsening.,2
+P00323,Severe severe vomiting noted after a fall.,2
+P00324,persistent headache was triggered by stress at work.,4
+P00325,Severe persistent nausea noted after a fall.,4
+P00326,persistent cough began suddenly and is worsening.,3
+P00327,mild seizure following long travel.,2
+P00328,intermittent cough seen with stable vitals.,3
+P00329,moderate fever has interfered with appetite.,2
+P00330,Patient reports intermittent shortness of breath after exercise.,2
+P00331,severe cough observed during daily activities.,3
+P00332,Mild moderate abdominal pain reported with no other symptoms.,4
+P00333,mild sore throat began suddenly and is worsening.,5
+P00334,intermittent nausea experienced without loss of consciousness.,3
+P00335,Mild severe cough reported with no other symptoms.,3
+P00336,severe fever began suddenly and is worsening.,4
+P00337,Complaint of persistent unconsciousness after exposure to heat.,1
+P00338,History of moderate headache worsening over two days.,4
+P00339,mild vomiting seen with stable vitals.,3
+P00340,moderate seizure present along with weakness.,1
+P00341,Symptoms include moderate shortness of breath and difficulty sleeping.,2
+P00342,persistent chest pain observed during daily activities.,1
+P00343,Symptoms include severe trauma and difficulty sleeping.,2
+P00344,History of severe shortness of breath worsening over two days.,1
+P00345,Patient reports moderate nausea after exercise.,4
+P00346,Symptoms started with severe cough and then progressed.,3
+P00347,intermittent fever observed during daily activities.,2
+P00348,mild nausea started during the night and affected breathing.,4
+P00349,Complains of intermittent unconsciousness along with mild fever.,1
+P00350,persistent nausea observed during daily activities.,3
+P00351,mild cough following long travel.,5
+P00352,intermittent seizure began suddenly and is worsening.,1
+P00353,Patient reports severe fever after exercise.,2
+P00354,Symptoms started with severe headache and then progressed.,3
+P00355,severe unconsciousness seen with stable vitals.,1
+P00356,Complaint of persistent sore throat after exposure to heat.,4
+P00357,mild fever present along with weakness.,4
+P00358,Severe mild trauma noted after a fall.,2
+P00359,moderate trauma was triggered by stress at work.,1
+P00360,Patient reports moderate skin rash after exercise.,4
+P00361,Symptoms include intermittent chest pain and difficulty sleeping.,2
+P00362,persistent cough seen with stable vitals.,3
+P00363,moderate fever began suddenly and is worsening.,2
+P00364,Patient reports intermittent cough after exercise.,3
+P00365,severe shortness of breath with signs of confusion.,1
+P00366,severe sore throat following long travel.,5
+P00367,Symptoms include moderate seizure and difficulty sleeping.,1
+P00368,mild abdominal pain seen with stable vitals.,4
+P00369,Mild intermittent vomiting reported with no other symptoms.,3
+P00370,Symptoms started with intermittent cough and then progressed.,3
+P00371,persistent sore throat with signs of confusion.,5
+P00372,Patient reports mild chest pain after exercise.,1
+P00373,severe abdominal pain present along with weakness.,4
+P00374,severe trauma with signs of confusion.,1
+P00375,persistent shortness of breath occurred with vomiting and nausea.,2
+P00376,persistent fatigue started during the night and affected breathing.,5
+P00377,mild dizziness following long travel.,3
+P00378,Mild mild fever reported with no other symptoms.,2
+P00379,Symptoms started with mild trauma and then progressed.,2
+P00380,persistent headache observed during daily activities.,3
+P00381,mild vomiting began suddenly and is worsening.,3
+P00382,intermittent shortness of breath occurred with vomiting and nausea.,2
+P00383,intermittent shortness of breath following long travel.,1
+P00384,Mild moderate chest pain reported with no other symptoms.,2
+P00385,Symptoms started with intermittent chest pain and then progressed.,2
+P00386,moderate shortness of breath was triggered by stress at work.,1
+P00387,intermittent headache and dizziness reported together.,3
+P00388,History of mild unconsciousness worsening over two days.,1
+P00389,persistent sore throat started during the night and affected breathing.,5
+P00390,Complaint of persistent shortness of breath after exposure to heat.,1
+P00391,intermittent shortness of breath started during the night and affected breathing.,1
+P00392,intermittent vomiting with signs of confusion.,3
+P00393,severe shortness of breath observed during daily activities.,2
+P00394,Symptoms include severe chest pain and difficulty sleeping.,1
+P00395,persistent seizure and dizziness reported together.,2
+P00396,persistent trauma began suddenly and is worsening.,2
+P00397,Complains of severe cough along with mild fever.,3
+P00398,mild headache and dizziness reported together.,4
+P00399,intermittent abdominal pain following long travel.,3
+P00400,persistent cough has interfered with appetite.,5
+P00401,Severe mild unconsciousness noted after a fall.,1
+P00402,severe headache seen with stable vitals.,4
+P00403,moderate chest pain has interfered with appetite.,1
+P00404,severe seizure seen with stable vitals.,2
+P00405,Patient reports intermittent skin rash after exercise.,4
+P00406,persistent abdominal pain present along with weakness.,3
+P00407,persistent headache and dizziness reported together.,4
+P00408,Symptoms started with mild seizure and then progressed.,1
+P00409,severe chest pain experienced without loss of consciousness.,2
+P00410,severe skin rash observed during daily activities.,4
+P00411,Complaint of severe skin rash after exposure to heat.,4
+P00412,intermittent nausea has interfered with appetite.,3
+P00413,severe unconsciousness experienced without loss of consciousness.,1
+P00414,Severe persistent dizziness noted after a fall.,4
+P00415,mild vomiting with signs of confusion.,2
+P00416,severe chest pain began suddenly and is worsening.,2
+P00417,intermittent vomiting was triggered by stress at work.,2
+P00418,severe sore throat has interfered with appetite.,5
+P00419,Complains of mild fatigue along with mild fever.,5
+P00420,persistent vomiting with signs of confusion.,2
+P00421,Symptoms include moderate fever and difficulty sleeping.,4
+P00422,intermittent shortness of breath present along with weakness.,2
+P00423,persistent chest pain began suddenly and is worsening.,2
+P00424,Complains of severe vomiting along with mild fever.,2
+P00425,persistent trauma occurred with vomiting and nausea.,1
+P00426,severe chest pain observed during daily activities.,1
+P00427,severe abdominal pain was triggered by stress at work.,4
+P00428,moderate trauma present along with weakness.,2
+P00429,Symptoms started with severe fever and then progressed.,2
+P00430,intermittent sore throat began suddenly and is worsening.,4
+P00431,moderate chest pain following long travel.,2
+P00432,intermittent trauma observed during daily activities.,2
+P00433,History of severe vomiting worsening over two days.,3
+P00434,History of moderate dizziness worsening over two days.,3
+P00435,Patient reports persistent seizure after exercise.,1
+P00436,severe shortness of breath was triggered by stress at work.,2
+P00437,severe unconsciousness present along with weakness.,1
+P00438,Complains of persistent vomiting along with mild fever.,3
+P00439,moderate shortness of breath seen with stable vitals.,2
+P00440,intermittent sore throat occurred with vomiting and nausea.,5
+P00441,Complaint of moderate chest pain after exposure to heat.,1
+P00442,Complaint of mild fever after exposure to heat.,4
+P00443,persistent trauma seen with stable vitals.,2
+P00444,persistent fatigue with signs of confusion.,5
+P00445,persistent shortness of breath seen with stable vitals.,1
+P00446,Severe mild cough noted after a fall.,3
+P00447,Mild mild shortness of breath reported with no other symptoms.,1
+P00448,Symptoms started with intermittent vomiting and then progressed.,2
+P00449,mild fever following long travel.,2
+P00450,Complains of moderate fatigue along with mild fever.,5
+P00451,moderate skin rash was triggered by stress at work.,4
+P00452,Symptoms include severe vomiting and difficulty sleeping.,3
+P00453,severe nausea with signs of confusion.,4
+P00454,persistent trauma has interfered with appetite.,2
+P00455,moderate dizziness with signs of confusion.,4
+P00456,severe trauma began suddenly and is worsening.,1
+P00457,intermittent headache occurred with vomiting and nausea.,3
+P00458,persistent dizziness present along with weakness.,3
+P00459,moderate abdominal pain seen with stable vitals.,4
+P00460,Complaint of severe headache after exposure to heat.,3
+P00461,moderate chest pain seen with stable vitals.,2
+P00462,Symptoms include persistent shortness of breath and difficulty sleeping.,2
+P00463,intermittent sore throat started during the night and affected breathing.,5
+P00464,mild seizure and dizziness reported together.,2
+P00465,persistent vomiting was triggered by stress at work.,2
+P00466,persistent trauma following long travel.,1
+P00467,mild dizziness occurred with vomiting and nausea.,4
+P00468,Symptoms include persistent seizure and difficulty sleeping.,1
+P00469,Mild moderate skin rash reported with no other symptoms.,4
+P00470,mild nausea seen with stable vitals.,4
+P00471,intermittent skin rash experienced without loss of consciousness.,4
+P00472,mild vomiting following long travel.,3
+P00473,Patient reports intermittent unconsciousness after exercise.,1
+P00474,intermittent fatigue started during the night and affected breathing.,5
+P00475,Complains of moderate nausea along with mild fever.,3
+P00476,Complaint of severe vomiting after exposure to heat.,2
+P00477,History of mild sore throat worsening over two days.,4
+P00478,Symptoms started with severe vomiting and then progressed.,2
+P00479,intermittent trauma with signs of confusion.,2
+P00480,Mild persistent chest pain reported with no other symptoms.,1
+P00481,Mild severe fatigue reported with no other symptoms.,5
+P00482,persistent chest pain following long travel.,1
+P00483,moderate unconsciousness experienced without loss of consciousness.,1
+P00484,Complaint of moderate cough after exposure to heat.,5
+P00485,intermittent chest pain began suddenly and is worsening.,1
+P00486,intermittent headache began suddenly and is worsening.,4
+P00487,Severe intermittent sore throat noted after a fall.,4
+P00488,Severe severe chest pain noted after a fall.,2
+P00489,mild headache present along with weakness.,4
+P00490,persistent vomiting started during the night and affected breathing.,2
+P00491,severe dizziness started during the night and affected breathing.,4
+P00492,intermittent seizure present along with weakness.,2
+P00493,severe seizure began suddenly and is worsening.,1
+P00494,History of persistent abdominal pain worsening over two days.,4
+P00495,mild nausea has interfered with appetite.,4
+P00496,moderate trauma began suddenly and is worsening.,1
+P00497,Symptoms include severe fatigue and difficulty sleeping.,5
+P00498,Complains of persistent cough along with mild fever.,5
+P00499,severe sore throat experienced without loss of consciousness.,4
+P00500,persistent unconsciousness has interfered with appetite.,1
+P00501,mild seizure experienced without loss of consciousness.,2
+P00502,intermittent abdominal pain began suddenly and is worsening.,4
+P00503,mild shortness of breath has interfered with appetite.,2
+P00504,Severe intermittent seizure noted after a fall.,1
+P00505,Complains of severe headache along with mild fever.,3
+P00506,Symptoms include intermittent cough and difficulty sleeping.,5
+P00507,Mild moderate vomiting reported with no other symptoms.,3
+P00508,Symptoms started with moderate seizure and then progressed.,2
+P00509,persistent shortness of breath observed during daily activities.,2
+P00510,Complains of severe shortness of breath along with mild fever.,1
+P00511,Patient reports moderate trauma after exercise.,1
+P00512,Symptoms include persistent vomiting and difficulty sleeping.,2
+P00513,severe fever with signs of confusion.,2
+P00514,History of persistent fatigue worsening over two days.,5
+P00515,moderate chest pain occurred with vomiting and nausea.,1
+P00516,Symptoms started with persistent cough and then progressed.,5
+P00517,moderate fever was triggered by stress at work.,4
+P00518,mild fatigue has interfered with appetite.,4
+P00519,mild abdominal pain started during the night and affected breathing.,4
+P00520,mild dizziness experienced without loss of consciousness.,3
+P00521,mild chest pain following long travel.,1
+P00522,intermittent dizziness occurred with vomiting and nausea.,4
+P00523,Patient reports severe sore throat after exercise.,4
+P00524,Patient reports moderate seizure after exercise.,1
+P00525,Symptoms include mild skin rash and difficulty sleeping.,4
+P00526,moderate shortness of breath began suddenly and is worsening.,2
+P00527,Mild persistent vomiting reported with no other symptoms.,2
+P00528,moderate nausea seen with stable vitals.,4
+P00529,History of intermittent shortness of breath worsening over two days.,2
+P00530,Patient reports mild shortness of breath after exercise.,2
+P00531,persistent seizure started during the night and affected breathing.,2
+P00532,mild trauma seen with stable vitals.,2
+P00533,History of persistent skin rash worsening over two days.,4
+P00534,Symptoms started with persistent trauma and then progressed.,2
+P00535,Complaint of persistent vomiting after exposure to heat.,2
+P00536,severe seizure occurred with vomiting and nausea.,2
+P00537,intermittent seizure with signs of confusion.,2
+P00538,mild skin rash observed during daily activities.,4
+P00539,Patient reports persistent cough after exercise.,5
+P00540,severe fatigue was triggered by stress at work.,5
+P00541,Complaint of moderate headache after exposure to heat.,3
+P00542,severe chest pain with signs of confusion.,2
+P00543,persistent headache experienced without loss of consciousness.,4
+P00544,severe unconsciousness and dizziness reported together.,1
+P00545,moderate unconsciousness present along with weakness.,1
+P00546,mild abdominal pain and dizziness reported together.,3
+P00547,moderate trauma observed during daily activities.,2
+P00548,moderate headache and dizziness reported together.,4
+P00549,Symptoms include severe abdominal pain and difficulty sleeping.,4
+P00550,mild shortness of breath with signs of confusion.,2
+P00551,moderate abdominal pain occurred with vomiting and nausea.,4
+P00552,Complaint of mild skin rash after exposure to heat.,5
+P00553,Symptoms include severe headache and difficulty sleeping.,4
+P00554,Mild persistent cough reported with no other symptoms.,3
+P00555,severe cough following long travel.,5
+P00556,severe unconsciousness following long travel.,1
+P00557,Mild severe sore throat reported with no other symptoms.,4
+P00558,moderate unconsciousness occurred with vomiting and nausea.,1
+P00559,Complaint of moderate shortness of breath after exposure to heat.,2
+P00560,moderate dizziness began suddenly and is worsening.,3
+P00561,moderate dizziness experienced without loss of consciousness.,3
+P00562,severe skin rash with signs of confusion.,4
+P00563,intermittent trauma started during the night and affected breathing.,1
+P00564,severe trauma and dizziness reported together.,2
+P00565,persistent skin rash following long travel.,4
+P00566,Mild severe dizziness reported with no other symptoms.,4
+P00567,persistent seizure observed during daily activities.,1
+P00568,persistent vomiting observed during daily activities.,3
+P00569,mild nausea was triggered by stress at work.,4
+P00570,severe skin rash following long travel.,5
+P00571,mild abdominal pain with signs of confusion.,3
+P00572,moderate fatigue seen with stable vitals.,4
+P00573,persistent trauma with signs of confusion.,2
+P00574,moderate headache following long travel.,4
+P00575,persistent fatigue observed during daily activities.,4
+P00576,severe sore throat began suddenly and is worsening.,5
+P00577,intermittent chest pain occurred with vomiting and nausea.,1
+P00578,persistent abdominal pain following long travel.,3
+P00579,Symptoms include mild unconsciousness and difficulty sleeping.,1
+P00580,intermittent shortness of breath has interfered with appetite.,2
+P00581,Complaint of intermittent nausea after exposure to heat.,4
+P00582,Patient reports moderate chest pain after exercise.,2
+P00583,Symptoms started with moderate skin rash and then progressed.,4
+P00584,intermittent seizure occurred with vomiting and nausea.,2
+P00585,severe shortness of breath experienced without loss of consciousness.,1
+P00586,Mild severe seizure reported with no other symptoms.,2
+P00587,mild sore throat with signs of confusion.,5
+P00588,intermittent fatigue began suddenly and is worsening.,5
+P00589,Symptoms started with severe sore throat and then progressed.,4
+P00590,Complains of persistent seizure along with mild fever.,1
+P00591,Mild severe chest pain reported with no other symptoms.,2
+P00592,severe shortness of breath has interfered with appetite.,1
+P00593,intermittent fever has interfered with appetite.,2
+P00594,severe shortness of breath present along with weakness.,1
+P00595,severe fever and dizziness reported together.,2
+P00596,Symptoms started with mild nausea and then progressed.,4
+P00597,persistent abdominal pain experienced without loss of consciousness.,4
+P00598,History of intermittent abdominal pain worsening over two days.,3
+P00599,mild fatigue occurred with vomiting and nausea.,4
+P00600,moderate dizziness and dizziness reported together.,3
+P00601,Symptoms started with moderate abdominal pain and then progressed.,3
+P00602,moderate headache began suddenly and is worsening.,4
+P00603,persistent sore throat present along with weakness.,4
+P00604,Patient reports mild headache after exercise.,4
+P00605,persistent fever with signs of confusion.,2
+P00606,Severe intermittent unconsciousness noted after a fall.,1
+P00607,intermittent headache started during the night and affected breathing.,4
+P00608,intermittent skin rash has interfered with appetite.,4
+P00609,mild chest pain experienced without loss of consciousness.,2
+P00610,Symptoms include persistent sore throat and difficulty sleeping.,4
+P00611,persistent fever and dizziness reported together.,4
+P00612,intermittent chest pain observed during daily activities.,2
+P00613,intermittent vomiting began suddenly and is worsening.,3
+P00614,Symptoms include intermittent abdominal pain and difficulty sleeping.,4
+P00615,intermittent vomiting present along with weakness.,3
+P00616,persistent headache has interfered with appetite.,4
+P00617,persistent abdominal pain and dizziness reported together.,3
+P00618,Complaint of severe abdominal pain after exposure to heat.,3
+P00619,Symptoms include severe dizziness and difficulty sleeping.,4
+P00620,mild vomiting started during the night and affected breathing.,3
+P00621,mild skin rash with signs of confusion.,5
+P00622,moderate headache seen with stable vitals.,4
+P00623,mild abdominal pain has interfered with appetite.,3
+P00624,moderate fatigue observed during daily activities.,4
+P00625,mild chest pain began suddenly and is worsening.,2
+P00626,Mild persistent abdominal pain reported with no other symptoms.,4
+P00627,persistent nausea following long travel.,4
+P00628,Symptoms include severe shortness of breath and difficulty sleeping.,1
+P00629,intermittent skin rash began suddenly and is worsening.,4
+P00630,moderate vomiting experienced without loss of consciousness.,2
+P00631,Patient reports persistent nausea after exercise.,4
+P00632,Severe mild sore throat noted after a fall.,5
+P00633,intermittent sore throat seen with stable vitals.,5
+P00634,persistent trauma was triggered by stress at work.,2
+P00635,History of persistent chest pain worsening over two days.,2
+P00636,moderate shortness of breath occurred with vomiting and nausea.,1
+P00637,Complains of intermittent cough along with mild fever.,5
+P00638,severe vomiting following long travel.,3
+P00639,severe fatigue and dizziness reported together.,5
+P00640,Patient reports mild abdominal pain after exercise.,4
+P00641,History of intermittent trauma worsening over two days.,2
+P00642,Patient reports severe seizure after exercise.,1
+P00643,persistent dizziness following long travel.,3
+P00644,Complaint of persistent nausea after exposure to heat.,3
+P00645,persistent fatigue following long travel.,5
+P00646,History of severe nausea worsening over two days.,3
+P00647,persistent shortness of breath started during the night and affected breathing.,1
+P00648,intermittent cough with signs of confusion.,5
+P00649,History of severe dizziness worsening over two days.,4
+P00650,intermittent unconsciousness was triggered by stress at work.,1
+P00651,persistent dizziness started during the night and affected breathing.,3
+P00652,persistent unconsciousness following long travel.,1
+P00653,mild sore throat was triggered by stress at work.,4
+P00654,History of severe cough worsening over two days.,3
+P00655,mild trauma started during the night and affected breathing.,2
+P00656,intermittent dizziness has interfered with appetite.,3
+P00657,moderate nausea observed during daily activities.,4
+P00658,Symptoms started with moderate trauma and then progressed.,1
+P00659,moderate fatigue present along with weakness.,4
+P00660,severe vomiting experienced without loss of consciousness.,2
+P00661,persistent chest pain seen with stable vitals.,2
+P00662,intermittent vomiting started during the night and affected breathing.,3
+P00663,mild skin rash began suddenly and is worsening.,4
+P00664,persistent skin rash started during the night and affected breathing.,4
+P00665,intermittent skin rash following long travel.,4
+P00666,Complaint of severe nausea after exposure to heat.,3
+P00667,moderate vomiting was triggered by stress at work.,3
+P00668,Symptoms include mild dizziness and difficulty sleeping.,3
+P00669,Symptoms include persistent chest pain and difficulty sleeping.,1
+P00670,intermittent headache seen with stable vitals.,3
+P00671,persistent nausea with signs of confusion.,4
+P00672,mild cough occurred with vomiting and nausea.,3
+P00673,severe dizziness with signs of confusion.,3
+P00674,Severe intermittent cough noted after a fall.,3
+P00675,moderate nausea following long travel.,3
+P00676,moderate nausea experienced without loss of consciousness.,4
+P00677,moderate trauma following long travel.,2
+P00678,severe vomiting present along with weakness.,2
+P00679,History of moderate chest pain worsening over two days.,1
+P00680,persistent shortness of breath following long travel.,1
+P00681,severe sore throat with signs of confusion.,5
+P00682,Complaint of moderate fatigue after exposure to heat.,4
+P00683,severe headache with signs of confusion.,3
+P00684,Mild intermittent abdominal pain reported with no other symptoms.,3
+P00685,Symptoms include persistent fatigue and difficulty sleeping.,4
+P00686,severe fatigue present along with weakness.,5
+P00687,persistent unconsciousness with signs of confusion.,1
+P00688,moderate headache present along with weakness.,4
+P00689,moderate seizure experienced without loss of consciousness.,2
+P00690,Mild intermittent nausea reported with no other symptoms.,3
+P00691,intermittent abdominal pain observed during daily activities.,3
+P00692,Symptoms started with persistent skin rash and then progressed.,5
+P00693,Patient reports moderate dizziness after exercise.,4
+P00694,Patient reports severe chest pain after exercise.,2
+P00695,mild vomiting was triggered by stress at work.,2
+P00696,Mild intermittent fatigue reported with no other symptoms.,4
+P00697,Complains of persistent skin rash along with mild fever.,5
+P00698,Symptoms include severe cough and difficulty sleeping.,5
+P00699,mild trauma was triggered by stress at work.,2
+P00700,severe chest pain occurred with vomiting and nausea.,2
+P00701,intermittent fatigue observed during daily activities.,4
+P00702,moderate fatigue started during the night and affected breathing.,4
+P00703,mild cough present along with weakness.,5
+P00704,Mild persistent skin rash reported with no other symptoms.,4
+P00705,severe dizziness experienced without loss of consciousness.,3
+P00706,mild nausea with signs of confusion.,3
+P00707,Symptoms started with intermittent shortness of breath and then progressed.,2
+P00708,moderate trauma started during the night and affected breathing.,1
+P00709,severe dizziness and dizziness reported together.,4
+P00710,mild abdominal pain began suddenly and is worsening.,4
+P00711,mild nausea present along with weakness.,3
+P00712,intermittent seizure was triggered by stress at work.,2
+P00713,intermittent unconsciousness observed during daily activities.,1
+P00714,persistent headache occurred with vomiting and nausea.,3
+P00715,mild chest pain started during the night and affected breathing.,1
+P00716,severe fever has interfered with appetite.,4
+P00717,mild skin rash was triggered by stress at work.,4
+P00718,persistent fatigue was triggered by stress at work.,5
+P00719,severe headache observed during daily activities.,3
+P00720,Severe persistent sore throat noted after a fall.,5
+P00721,severe nausea observed during daily activities.,4
+P00722,severe unconsciousness with signs of confusion.,1
+P00723,Patient reports mild trauma after exercise.,1
+P00724,Mild intermittent shortness of breath reported with no other symptoms.,2
+P00725,moderate skin rash and dizziness reported together.,4
+P00726,History of mild trauma worsening over two days.,1
+P00727,severe fatigue started during the night and affected breathing.,4
+P00728,persistent unconsciousness occurred with vomiting and nausea.,1
+P00729,moderate seizure following long travel.,2
+P00730,Patient reports mild sore throat after exercise.,4
+P00731,severe fever was triggered by stress at work.,4
+P00732,Patient reports moderate abdominal pain after exercise.,3
+P00733,intermittent nausea and dizziness reported together.,3
+P00734,Severe intermittent headache noted after a fall.,3
+P00735,Symptoms include severe nausea and difficulty sleeping.,3
+P00736,persistent sore throat was triggered by stress at work.,5
+P00737,Symptoms started with severe skin rash and then progressed.,4
+P00738,persistent fever present along with weakness.,4
+P00739,persistent dizziness began suddenly and is worsening.,4
+P00740,Mild persistent unconsciousness reported with no other symptoms.,1
+P00741,History of mild vomiting worsening over two days.,2
+P00742,Mild mild fatigue reported with no other symptoms.,4
+P00743,moderate fever started during the night and affected breathing.,4
+P00744,moderate fatigue occurred with vomiting and nausea.,5
+P00745,History of severe fatigue worsening over two days.,5
+P00746,Symptoms started with persistent vomiting and then progressed.,3
+P00747,moderate skin rash present along with weakness.,4
+P00748,Complaint of mild abdominal pain after exposure to heat.,3
+P00749,Mild mild skin rash reported with no other symptoms.,4
+P00750,Complaint of severe cough after exposure to heat.,5
+P00751,severe dizziness has interfered with appetite.,4
+P00752,Mild moderate headache reported with no other symptoms.,4
+P00753,History of intermittent seizure worsening over two days.,1
+P00754,Symptoms include persistent dizziness and difficulty sleeping.,4
+P00755,intermittent chest pain and dizziness reported together.,1
+P00756,Symptoms include moderate dizziness and difficulty sleeping.,4
+P00757,History of mild nausea worsening over two days.,4
+P00758,Symptoms include intermittent shortness of breath and difficulty sleeping.,1
+P00759,Severe intermittent fatigue noted after a fall.,5
+P00760,moderate dizziness seen with stable vitals.,4
+P00761,moderate trauma experienced without loss of consciousness.,1
+P00762,persistent cough observed during daily activities.,3
+P00763,persistent skin rash and dizziness reported together.,5
+P00764,Symptoms include moderate vomiting and difficulty sleeping.,2
+P00765,severe cough with signs of confusion.,5
+P00766,mild shortness of breath and dizziness reported together.,2
+P00767,Symptoms started with intermittent unconsciousness and then progressed.,1
+P00768,intermittent seizure observed during daily activities.,1
+P00769,intermittent chest pain seen with stable vitals.,1
+P00770,intermittent abdominal pain was triggered by stress at work.,3
+P00771,Complaint of mild nausea after exposure to heat.,4
+P00772,History of persistent cough worsening over two days.,5
+P00773,Mild moderate seizure reported with no other symptoms.,2
+P00774,persistent sore throat and dizziness reported together.,4
+P00775,intermittent dizziness following long travel.,4
+P00776,Patient reports moderate cough after exercise.,5
+P00777,severe skin rash present along with weakness.,4
+P00778,mild headache occurred with vomiting and nausea.,3
+P00779,persistent trauma started during the night and affected breathing.,2
+P00780,History of severe fever worsening over two days.,4
+P00781,Symptoms include persistent cough and difficulty sleeping.,3
+P00782,moderate sore throat started during the night and affected breathing.,5
+P00783,Severe intermittent skin rash noted after a fall.,4
+P00784,Patient reports persistent abdominal pain after exercise.,3
+P00785,moderate shortness of breath present along with weakness.,2
+P00786,moderate fever experienced without loss of consciousness.,4
+P00787,persistent skin rash seen with stable vitals.,5
+P00788,mild chest pain observed during daily activities.,1
+P00789,Complaint of intermittent shortness of breath after exposure to heat.,2
+P00790,Complains of persistent sore throat along with mild fever.,5
+P00791,mild skin rash following long travel.,4
+P00792,History of intermittent cough worsening over two days.,3
+P00793,Patient reports severe fatigue after exercise.,4
+P00794,Symptoms started with mild abdominal pain and then progressed.,4
+P00795,persistent cough experienced without loss of consciousness.,5
+P00796,persistent vomiting began suddenly and is worsening.,2
+P00797,Symptoms include moderate abdominal pain and difficulty sleeping.,4
+P00798,History of moderate cough worsening over two days.,5
+P00799,Patient reports severe trauma after exercise.,2
+P00800,Severe persistent unconsciousness noted after a fall.,1
+P00801,Severe intermittent abdominal pain noted after a fall.,3
+P00802,persistent seizure experienced without loss of consciousness.,2
+P00803,persistent fever experienced without loss of consciousness.,4
+P00804,moderate vomiting started during the night and affected breathing.,2
+P00805,mild headache began suddenly and is worsening.,3
+P00806,Symptoms include intermittent vomiting and difficulty sleeping.,3
+P00807,Mild severe unconsciousness reported with no other symptoms.,1
+P00808,Complaint of intermittent skin rash after exposure to heat.,4
+P00809,persistent chest pain and dizziness reported together.,1
+P00810,intermittent fatigue with signs of confusion.,5
+P00811,Severe severe nausea noted after a fall.,3
+P00812,severe headache occurred with vomiting and nausea.,4
+P00813,Severe severe fatigue noted after a fall.,4
+P00814,History of severe skin rash worsening over two days.,4
+P00815,Symptoms started with intermittent nausea and then progressed.,3
+P00816,Mild mild abdominal pain reported with no other symptoms.,3
+P00817,mild abdominal pain observed during daily activities.,4
+P00818,intermittent nausea occurred with vomiting and nausea.,3
+P00819,Severe severe fever noted after a fall.,2
+P00820,Symptoms started with moderate shortness of breath and then progressed.,2
+P00821,Symptoms include mild shortness of breath and difficulty sleeping.,1
+P00822,History of persistent shortness of breath worsening over two days.,2
+P00823,moderate headache observed during daily activities.,3
+P00824,Complains of persistent fever along with mild fever.,4
+P00825,moderate vomiting observed during daily activities.,3
+P00826,moderate nausea started during the night and affected breathing.,3
+P00827,Complains of intermittent skin rash along with mild fever.,5
+P00828,Symptoms started with intermittent abdominal pain and then progressed.,3
+P00829,mild fatigue started during the night and affected breathing.,5
+P00830,persistent fatigue has interfered with appetite.,4
+P00831,moderate sore throat with signs of confusion.,5
+P00832,Severe moderate vomiting noted after a fall.,2
+P00833,moderate abdominal pain experienced without loss of consciousness.,4
+P00834,moderate abdominal pain following long travel.,3
+P00835,persistent abdominal pain seen with stable vitals.,4
+P00836,intermittent sore throat present along with weakness.,5
+P00837,Symptoms started with intermittent sore throat and then progressed.,5
+P00838,severe sore throat observed during daily activities.,4
+P00839,Symptoms started with mild skin rash and then progressed.,5
+P00840,Complains of intermittent chest pain along with mild fever.,1
+P00841,Mild mild nausea reported with no other symptoms.,4
+P00842,mild dizziness and dizziness reported together.,4
+P00843,moderate sore throat present along with weakness.,4
+P00844,moderate fatigue and dizziness reported together.,4
+P00845,moderate unconsciousness began suddenly and is worsening.,1
+P00846,intermittent shortness of breath seen with stable vitals.,2
+P00847,intermittent abdominal pain and dizziness reported together.,3
+P00848,intermittent unconsciousness with signs of confusion.,1
+P00849,Patient reports mild cough after exercise.,5
+P00850,intermittent abdominal pain has interfered with appetite.,3
+P00851,Patient reports persistent chest pain after exercise.,1
+P00852,severe cough started during the night and affected breathing.,5
+P00853,intermittent trauma has interfered with appetite.,2
+P00854,persistent fever started during the night and affected breathing.,2
+P00855,intermittent dizziness started during the night and affected breathing.,3
+P00856,mild fatigue present along with weakness.,4
+P00857,Patient reports persistent fever after exercise.,2
+P00858,persistent skin rash experienced without loss of consciousness.,4
+P00859,moderate fever and dizziness reported together.,2
+P00860,persistent headache seen with stable vitals.,4
+P00861,persistent cough started during the night and affected breathing.,3
+P00862,Mild mild headache reported with no other symptoms.,4
+P00863,moderate skin rash observed during daily activities.,5
+P00864,History of severe trauma worsening over two days.,2
+P00865,persistent headache present along with weakness.,3
+P00866,mild trauma and dizziness reported together.,1
+P00867,Severe severe dizziness noted after a fall.,4
+P00868,Symptoms started with intermittent seizure and then progressed.,1
+P00869,Symptoms include moderate chest pain and difficulty sleeping.,1
+P00870,mild skin rash started during the night and affected breathing.,4
+P00871,persistent cough was triggered by stress at work.,3
+P00872,severe headache following long travel.,4
+P00873,severe trauma following long travel.,2
+P00874,severe trauma present along with weakness.,1
+P00875,intermittent cough experienced without loss of consciousness.,3
+P00876,Complains of mild dizziness along with mild fever.,4
+P00877,History of moderate fatigue worsening over two days.,5
+P00878,moderate skin rash with signs of confusion.,4
+P00879,mild shortness of breath present along with weakness.,1
+P00880,severe headache began suddenly and is worsening.,3
+P00881,Complaint of persistent trauma after exposure to heat.,1
+P00882,mild vomiting occurred with vomiting and nausea.,3
+P00883,Symptoms started with persistent sore throat and then progressed.,5
+P00884,Mild moderate fever reported with no other symptoms.,2
+P00885,Mild persistent headache reported with no other symptoms.,3
+P00886,intermittent skin rash with signs of confusion.,5
+P00887,History of moderate fever worsening over two days.,4
+P00888,Patient reports intermittent seizure after exercise.,1
+P00889,persistent nausea experienced without loss of consciousness.,4
+P00890,Patient reports intermittent nausea after exercise.,3
+P00891,Complaint of mild seizure after exposure to heat.,1
+P00892,Patient reports persistent trauma after exercise.,2
+P00893,intermittent nausea present along with weakness.,3
+P00894,History of moderate skin rash worsening over two days.,4
+P00895,intermittent headache following long travel.,4
+P00896,Mild persistent fever reported with no other symptoms.,4
+P00897,intermittent fatigue seen with stable vitals.,5
+P00898,severe unconsciousness has interfered with appetite.,1
+P00899,persistent chest pain was triggered by stress at work.,1
+P00900,mild nausea observed during daily activities.,3
+P00901,moderate seizure and dizziness reported together.,1
+P00902,Severe intermittent trauma noted after a fall.,2
+P00903,Symptoms include persistent nausea and difficulty sleeping.,4
+P00904,intermittent headache experienced without loss of consciousness.,4
+P00905,Complaint of intermittent trauma after exposure to heat.,2
+P00906,Symptoms started with persistent nausea and then progressed.,4
+P00907,severe sore throat occurred with vomiting and nausea.,5
+P00908,mild cough started during the night and affected breathing.,3
+P00909,intermittent abdominal pain with signs of confusion.,3
+P00910,Complaint of moderate skin rash after exposure to heat.,4
+P00911,Symptoms include mild fever and difficulty sleeping.,2
+P00912,persistent fever occurred with vomiting and nausea.,4
+P00913,persistent abdominal pain observed during daily activities.,4
+P00914,intermittent dizziness was triggered by stress at work.,4
+P00915,Symptoms started with moderate chest pain and then progressed.,2
+P00916,intermittent trauma and dizziness reported together.,1
+P00917,severe nausea experienced without loss of consciousness.,3
+P00918,History of persistent dizziness worsening over two days.,3
+P00919,History of intermittent unconsciousness worsening over two days.,1
+P00920,Patient reports persistent dizziness after exercise.,3
+P00921,intermittent fatigue was triggered by stress at work.,4
+P00922,intermittent shortness of breath began suddenly and is worsening.,1
+P00923,intermittent sore throat was triggered by stress at work.,4
+P00924,mild sore throat present along with weakness.,5
+P00925,severe nausea present along with weakness.,4
+P00926,Symptoms include severe sore throat and difficulty sleeping.,4
+P00927,mild seizure observed during daily activities.,1
+P00928,History of mild fever worsening over two days.,2
+P00929,Complaint of moderate abdominal pain after exposure to heat.,3
+P00930,persistent vomiting following long travel.,3
+P00931,severe sore throat seen with stable vitals.,4
+P00932,History of persistent seizure worsening over two days.,2
+P00933,Severe moderate sore throat noted after a fall.,4
+P00934,Complains of severe skin rash along with mild fever.,4
+P00935,severe nausea and dizziness reported together.,3
+P00936,Severe moderate headache noted after a fall.,4
+P00937,Symptoms started with moderate sore throat and then progressed.,5
+P00938,persistent chest pain occurred with vomiting and nausea.,1
+P00939,Symptoms include mild seizure and difficulty sleeping.,2
+P00940,Complaint of moderate sore throat after exposure to heat.,4
+P00941,persistent unconsciousness seen with stable vitals.,1
+P00942,intermittent chest pain following long travel.,1
+P00943,moderate unconsciousness was triggered by stress at work.,1
+P00944,mild dizziness with signs of confusion.,4
+P00945,severe trauma has interfered with appetite.,2
+P00946,intermittent sore throat has interfered with appetite.,5
+P00947,Complaint of persistent skin rash after exposure to heat.,5
+P00948,persistent sore throat has interfered with appetite.,4
+P00949,Symptoms include moderate unconsciousness and difficulty sleeping.,1
+P00950,severe seizure experienced without loss of consciousness.,1
+P00951,mild unconsciousness seen with stable vitals.,1
+P00952,Patient reports severe nausea after exercise.,4
+P00953,intermittent trauma experienced without loss of consciousness.,1
+P00954,mild nausea began suddenly and is worsening.,4
+P00955,Symptoms started with severe unconsciousness and then progressed.,1
+P00956,moderate sore throat began suddenly and is worsening.,5
+P00957,History of mild dizziness worsening over two days.,3
+P00958,Symptoms started with moderate fever and then progressed.,2
+P00959,mild trauma with signs of confusion.,2
+P00960,persistent nausea was triggered by stress at work.,3
+P00961,Complains of intermittent seizure along with mild fever.,2
+P00962,Complaint of mild shortness of breath after exposure to heat.,2
+P00963,severe headache and dizziness reported together.,4
+P00964,intermittent seizure has interfered with appetite.,2
+P00965,Patient reports moderate fever after exercise.,4
+P00966,intermittent headache has interfered with appetite.,3
+P00967,intermittent chest pain with signs of confusion.,1
+P00968,intermittent nausea following long travel.,3
+P00969,severe dizziness following long travel.,4
+P00970,Mild moderate shortness of breath reported with no other symptoms.,1
+P00971,severe dizziness observed during daily activities.,4
+P00972,Symptoms started with moderate dizziness and then progressed.,3
+P00973,persistent shortness of breath experienced without loss of consciousness.,2
+P00974,Mild intermittent cough reported with no other symptoms.,3
+P00975,severe headache was triggered by stress at work.,3
+P00976,severe nausea has interfered with appetite.,4
+P00977,mild nausea and dizziness reported together.,3
+P00978,intermittent shortness of breath observed during daily activities.,2
+P00979,Symptoms include severe seizure and difficulty sleeping.,1
+P00980,intermittent chest pain experienced without loss of consciousness.,2
+P00981,Mild severe vomiting reported with no other symptoms.,3
+P00982,Mild persistent trauma reported with no other symptoms.,2
+P00983,moderate headache started during the night and affected breathing.,3
+P00984,severe abdominal pain has interfered with appetite.,4
+P00985,mild trauma observed during daily activities.,1
+P00986,persistent dizziness with signs of confusion.,3
+P00987,moderate fatigue was triggered by stress at work.,5
+P00988,Complaint of mild headache after exposure to heat.,4
+P00989,persistent vomiting experienced without loss of consciousness.,2
+P00990,History of moderate seizure worsening over two days.,2
+P00991,intermittent cough started during the night and affected breathing.,3
+P00992,Symptoms include persistent unconsciousness and difficulty sleeping.,1
+P00993,mild seizure has interfered with appetite.,2
+P00994,severe chest pain has interfered with appetite.,2
+P00995,persistent nausea started during the night and affected breathing.,3
+P00996,persistent sore throat began suddenly and is worsening.,5
+P00997,persistent unconsciousness observed during daily activities.,1
+P00998,moderate cough present along with weakness.,5
+P00999,Mild intermittent sore throat reported with no other symptoms.,5
+P01000,Complaint of intermittent abdominal pain after exposure to heat.,3
+P01001,Severe intermittent vomiting noted after a fall.,2
+P01002,persistent headache started during the night and affected breathing.,4
+P01003,Symptoms started with mild cough and then progressed.,3
+P01004,Symptoms include persistent fever and difficulty sleeping.,4
+P01005,severe vomiting and dizziness reported together.,3
+P01006,Complaint of mild chest pain after exposure to heat.,1
+P01007,Complaint of mild trauma after exposure to heat.,2
+P01008,Patient reports severe skin rash after exercise.,4
+P01009,moderate vomiting occurred with vomiting and nausea.,2
+P01010,persistent abdominal pain occurred with vomiting and nausea.,4
+P01011,Complaint of persistent seizure after exposure to heat.,2
+P01012,moderate vomiting present along with weakness.,2
+P01013,Severe mild dizziness noted after a fall.,3
+P01014,mild abdominal pain following long travel.,4
+P01015,moderate vomiting has interfered with appetite.,2
+P01016,Mild persistent dizziness reported with no other symptoms.,4
+P01017,Complaint of moderate trauma after exposure to heat.,2
+P01018,persistent seizure began suddenly and is worsening.,2
+P01019,severe seizure with signs of confusion.,1
+P01020,Severe mild nausea noted after a fall.,4
+P01021,Severe persistent skin rash noted after a fall.,4
+P01022,mild dizziness has interfered with appetite.,3
+P01023,Complains of severe dizziness along with mild fever.,3
+P01024,Mild severe fever reported with no other symptoms.,2
+P01025,mild chest pain has interfered with appetite.,2
+P01026,severe trauma observed during daily activities.,1
+P01027,Patient reports moderate sore throat after exercise.,4
+P01028,intermittent chest pain present along with weakness.,1
+P01029,Complaint of persistent fever after exposure to heat.,4
+P01030,Symptoms include intermittent trauma and difficulty sleeping.,2
+P01031,Mild intermittent chest pain reported with no other symptoms.,2
+P01032,severe unconsciousness was triggered by stress at work.,1
+P01033,Mild moderate trauma reported with no other symptoms.,2
+P01034,Patient reports moderate headache after exercise.,3
+P01035,intermittent fever experienced without loss of consciousness.,2
+P01036,mild shortness of breath observed during daily activities.,1
+P01037,Complains of moderate fever along with mild fever.,4
+P01038,Patient reports persistent headache after exercise.,4
+P01039,Severe mild shortness of breath noted after a fall.,2
+P01040,Symptoms include intermittent headache and difficulty sleeping.,4
+P01041,Complaint of persistent dizziness after exposure to heat.,4
+P01042,Mild mild seizure reported with no other symptoms.,2
+P01043,persistent skin rash observed during daily activities.,4
+P01044,Severe severe seizure noted after a fall.,2
+P01045,persistent sore throat occurred with vomiting and nausea.,5
+P01046,Complains of intermittent fatigue along with mild fever.,4
+P01047,moderate nausea began suddenly and is worsening.,4
+P01048,mild cough experienced without loss of consciousness.,3
+P01049,Patient reports persistent shortness of breath after exercise.,1
+P01050,Symptoms include persistent trauma and difficulty sleeping.,2
+P01051,Symptoms include intermittent sore throat and difficulty sleeping.,4
+P01052,mild fatigue following long travel.,4
+P01053,moderate fever seen with stable vitals.,4
+P01054,moderate headache has interfered with appetite.,3
+P01055,intermittent fatigue has interfered with appetite.,5
+P01056,moderate fever present along with weakness.,2
+P01057,persistent skin rash present along with weakness.,5
+P01058,Symptoms started with moderate headache and then progressed.,3
+P01059,Complains of mild cough along with mild fever.,3
+P01060,intermittent skin rash observed during daily activities.,4
+P01061,intermittent chest pain has interfered with appetite.,1
+P01062,Patient reports intermittent fatigue after exercise.,4
+P01063,Complaint of severe sore throat after exposure to heat.,4
+P01064,moderate sore throat occurred with vomiting and nausea.,4
+P01065,mild skin rash and dizziness reported together.,4
+P01066,persistent dizziness experienced without loss of consciousness.,3
+P01067,persistent nausea began suddenly and is worsening.,3
+P01068,mild unconsciousness started during the night and affected breathing.,1
+P01069,severe fever present along with weakness.,2
+P01070,intermittent seizure experienced without loss of consciousness.,1
+P01071,persistent cough occurred with vomiting and nausea.,3
+P01072,Mild intermittent seizure reported with no other symptoms.,1
+P01073,Patient reports moderate unconsciousness after exercise.,1
+P01074,intermittent trauma seen with stable vitals.,1
+P01075,History of intermittent fever worsening over two days.,4
+P01076,Complaint of severe seizure after exposure to heat.,1
+P01077,Symptoms started with intermittent fever and then progressed.,4
+P01078,mild nausea occurred with vomiting and nausea.,3
+P01079,persistent fever has interfered with appetite.,2
+P01080,Complains of persistent unconsciousness along with mild fever.,1
+P01081,severe cough experienced without loss of consciousness.,3
+P01082,severe abdominal pain with signs of confusion.,4
+P01083,persistent seizure seen with stable vitals.,2
+P01084,severe trauma occurred with vomiting and nausea.,1
+P01085,moderate abdominal pain and dizziness reported together.,4
+P01086,moderate cough occurred with vomiting and nausea.,3
+P01087,moderate fever following long travel.,4
+P01088,severe seizure present along with weakness.,1
+P01089,Patient reports mild dizziness after exercise.,3
+P01090,intermittent dizziness observed during daily activities.,3
+P01091,persistent chest pain has interfered with appetite.,1
+P01092,moderate dizziness following long travel.,4
+P01093,History of moderate sore throat worsening over two days.,5
+P01094,intermittent unconsciousness experienced without loss of consciousness.,1
+P01095,severe dizziness occurred with vomiting and nausea.,4
+P01096,Severe mild headache noted after a fall.,3
+P01097,intermittent nausea seen with stable vitals.,4
+P01098,persistent fever observed during daily activities.,2
+P01099,Severe intermittent chest pain noted after a fall.,2
+P01100,moderate cough began suddenly and is worsening.,5
+P01101,mild dizziness seen with stable vitals.,4
+P01102,Complains of mild shortness of breath along with mild fever.,1
+P01103,intermittent nausea was triggered by stress at work.,3
+P01104,History of moderate trauma worsening over two days.,2
+P01105,mild cough was triggered by stress at work.,3
+P01106,severe headache has interfered with appetite.,4
+P01107,mild fatigue experienced without loss of consciousness.,5
+P01108,Symptoms include mild nausea and difficulty sleeping.,4
+P01109,moderate skin rash started during the night and affected breathing.,5
+P01110,moderate nausea present along with weakness.,4
+P01111,persistent shortness of breath began suddenly and is worsening.,1
+P01112,moderate sore throat was triggered by stress at work.,4
+P01113,Patient reports persistent vomiting after exercise.,2
+P01114,Complains of moderate shortness of breath along with mild fever.,1
+P01115,Severe moderate fever noted after a fall.,2
+P01116,Complains of moderate sore throat along with mild fever.,5
+P01117,severe abdominal pain started during the night and affected breathing.,3
+P01118,Severe mild chest pain noted after a fall.,1
+P01119,severe fever observed during daily activities.,2
+P01120,Mild persistent shortness of breath reported with no other symptoms.,1
+P01121,Symptoms include mild abdominal pain and difficulty sleeping.,3
+P01122,mild fever started during the night and affected breathing.,2
+P01123,severe sore throat present along with weakness.,5
+P01124,mild fatigue and dizziness reported together.,5
+P01125,severe fatigue observed during daily activities.,4
+P01126,mild cough with signs of confusion.,3
+P01127,Severe moderate shortness of breath noted after a fall.,2
+P01128,severe shortness of breath seen with stable vitals.,2
+P01129,moderate seizure has interfered with appetite.,1
+P01130,Mild severe skin rash reported with no other symptoms.,4
+P01131,mild headache following long travel.,3
+P01132,mild cough has interfered with appetite.,5
+P01133,persistent dizziness was triggered by stress at work.,3
+P01134,moderate chest pain was triggered by stress at work.,2
+P01135,Symptoms include moderate headache and difficulty sleeping.,4
+P01136,mild trauma experienced without loss of consciousness.,1
+P01137,moderate vomiting following long travel.,3
+P01138,Complains of moderate vomiting along with mild fever.,3
+P01139,intermittent unconsciousness occurred with vomiting and nausea.,1
+P01140,persistent fever following long travel.,2
+P01141,Severe severe unconsciousness noted after a fall.,1
+P01142,severe headache experienced without loss of consciousness.,4
+P01143,Complaint of moderate unconsciousness after exposure to heat.,1
+P01144,Complains of mild trauma along with mild fever.,1
+P01145,persistent shortness of breath was triggered by stress at work.,1
+P01146,mild dizziness began suddenly and is worsening.,3
+P01147,Severe persistent fatigue noted after a fall.,4
+P01148,intermittent cough present along with weakness.,5
+P01149,Complaint of persistent fatigue after exposure to heat.,5
+P01150,Complains of intermittent abdominal pain along with mild fever.,4
+P01151,History of persistent nausea worsening over two days.,4
+P01152,Symptoms include mild cough and difficulty sleeping.,3
+P01153,intermittent unconsciousness following long travel.,1
+P01154,Patient reports severe shortness of breath after exercise.,1
+P01155,Complains of mild chest pain along with mild fever.,2
+P01156,mild headache experienced without loss of consciousness.,4
+P01157,persistent headache following long travel.,3
+P01158,Symptoms started with moderate vomiting and then progressed.,3
+P01159,persistent vomiting occurred with vomiting and nausea.,2
+P01160,Complaint of intermittent unconsciousness after exposure to heat.,1
+P01161,intermittent fever and dizziness reported together.,4
+P01162,severe dizziness began suddenly and is worsening.,4
+P01163,moderate chest pain observed during daily activities.,2
+P01164,moderate dizziness started during the night and affected breathing.,4
+P01165,moderate vomiting with signs of confusion.,3
+P01166,severe fever experienced without loss of consciousness.,2
+P01167,Mild intermittent trauma reported with no other symptoms.,2
+P01168,persistent unconsciousness present along with weakness.,1
+P01169,Complains of mild skin rash along with mild fever.,4
+P01170,mild unconsciousness following long travel.,1
+P01171,Patient reports severe abdominal pain after exercise.,3
+P01172,severe nausea was triggered by stress at work.,4
+P01173,Patient reports intermittent trauma after exercise.,2
+P01174,Symptoms started with intermittent trauma and then progressed.,1
+P01175,Severe mild vomiting noted after a fall.,3
+P01176,persistent vomiting seen with stable vitals.,3
+P01177,intermittent unconsciousness and dizziness reported together.,1
+P01178,Severe intermittent nausea noted after a fall.,4
+P01179,moderate fatigue with signs of confusion.,4
+P01180,persistent abdominal pain started during the night and affected breathing.,4
+P01181,History of severe chest pain worsening over two days.,2
+P01182,Complaint of mild fatigue after exposure to heat.,4
+P01183,Symptoms include severe unconsciousness and difficulty sleeping.,1
+P01184,Symptoms started with severe abdominal pain and then progressed.,4
+P01185,Complains of persistent abdominal pain along with mild fever.,3
+P01186,Complains of severe fatigue along with mild fever.,5
+P01187,intermittent dizziness seen with stable vitals.,4
+P01188,severe seizure was triggered by stress at work.,2
+P01189,Severe moderate fatigue noted after a fall.,4
+P01190,moderate fatigue following long travel.,5
+P01191,Symptoms started with persistent seizure and then progressed.,2
+P01192,persistent skin rash was triggered by stress at work.,5
+P01193,intermittent headache observed during daily activities.,3
+P01194,severe seizure has interfered with appetite.,1
+P01195,mild sore throat experienced without loss of consciousness.,5
+P01196,mild headache with signs of confusion.,4
+P01197,persistent vomiting and dizziness reported together.,2
+P01198,History of intermittent vomiting worsening over two days.,2
+P01199,severe nausea started during the night and affected breathing.,3
+P01200,intermittent vomiting has interfered with appetite.,2
+P01201,mild sore throat and dizziness reported together.,4
+P01202,persistent chest pain started during the night and affected breathing.,1
+P01203,persistent fatigue present along with weakness.,4
+P01204,moderate headache was triggered by stress at work.,3
+P01205,mild abdominal pain occurred with vomiting and nausea.,3
+P01206,Symptoms started with persistent shortness of breath and then progressed.,2
+P01207,mild seizure present along with weakness.,1
+P01208,intermittent chest pain was triggered by stress at work.,1
+P01209,Complains of severe trauma along with mild fever.,1
+P01210,Patient reports moderate fatigue after exercise.,5
+P01211,moderate sore throat and dizziness reported together.,4
+P01212,mild sore throat started during the night and affected breathing.,5
+P01213,moderate abdominal pain has interfered with appetite.,3
+P01214,Complaint of intermittent headache after exposure to heat.,4
+P01215,Severe intermittent fever noted after a fall.,2
+P01216,persistent seizure following long travel.,2
+P01217,intermittent vomiting occurred with vomiting and nausea.,3
+P01218,Patient reports intermittent sore throat after exercise.,4
+P01219,Patient reports intermittent abdominal pain after exercise.,3
+P01220,persistent fatigue began suddenly and is worsening.,5
+P01221,mild dizziness present along with weakness.,4
+P01222,intermittent abdominal pain started during the night and affected breathing.,3
+P01223,Severe mild seizure noted after a fall.,1
+P01224,moderate dizziness has interfered with appetite.,4
+P01225,Mild intermittent skin rash reported with no other symptoms.,4
+P01226,Complains of intermittent dizziness along with mild fever.,3
+P01227,severe fatigue has interfered with appetite.,5
+P01228,severe shortness of breath began suddenly and is worsening.,2
+P01229,intermittent dizziness and dizziness reported together.,3
+P01230,Complains of intermittent shortness of breath along with mild fever.,1
+P01231,Severe persistent headache noted after a fall.,4
+P01232,persistent trauma observed during daily activities.,2
+P01233,mild unconsciousness was triggered by stress at work.,1
+P01234,Severe moderate skin rash noted after a fall.,5
+P01235,persistent skin rash began suddenly and is worsening.,4
+P01236,History of persistent unconsciousness worsening over two days.,1
+P01237,History of moderate shortness of breath worsening over two days.,2
+P01238,intermittent unconsciousness seen with stable vitals.,1
+P01239,Complaint of intermittent fever after exposure to heat.,2
+P01240,Mild moderate sore throat reported with no other symptoms.,5
+P01241,History of intermittent sore throat worsening over two days.,4
+P01242,Complaint of persistent abdominal pain after exposure to heat.,3
+P01243,intermittent cough occurred with vomiting and nausea.,3
+P01244,Mild moderate fatigue reported with no other symptoms.,4
+P01245,Symptoms started with persistent dizziness and then progressed.,3
+P01246,Complaint of intermittent fatigue after exposure to heat.,4
+P01247,moderate cough and dizziness reported together.,3
+P01248,Complains of mild seizure along with mild fever.,2
+P01249,intermittent headache with signs of confusion.,3
+P01250,Patient reports mild skin rash after exercise.,4
+P01251,History of persistent sore throat worsening over two days.,5
+P01252,severe skin rash seen with stable vitals.,5
+P01253,persistent trauma present along with weakness.,1
+P01254,mild trauma occurred with vomiting and nausea.,2
+P01255,Symptoms started with persistent unconsciousness and then progressed.,1
+P01256,intermittent fever following long travel.,4
+P01257,mild fever has interfered with appetite.,4
+P01258,Complaint of persistent headache after exposure to heat.,3
+P01259,Symptoms started with mild vomiting and then progressed.,3
+P01260,Severe persistent seizure noted after a fall.,1
+P01261,intermittent sore throat with signs of confusion.,4
+P01262,intermittent chest pain started during the night and affected breathing.,2
+P01263,intermittent nausea with signs of confusion.,4
+P01264,severe chest pain following long travel.,1
+P01265,moderate seizure began suddenly and is worsening.,1
+P01266,moderate unconsciousness started during the night and affected breathing.,1
+P01267,moderate cough started during the night and affected breathing.,3
+P01268,Symptoms include intermittent unconsciousness and difficulty sleeping.,1
+P01269,severe abdominal pain occurred with vomiting and nausea.,3
+P01270,moderate skin rash began suddenly and is worsening.,4
+P01271,intermittent nausea began suddenly and is worsening.,3
+P01272,Complains of mild unconsciousness along with mild fever.,1
+P01273,severe unconsciousness observed during daily activities.,1
+P01274,persistent unconsciousness began suddenly and is worsening.,1
+P01275,moderate seizure started during the night and affected breathing.,2
+P01276,Patient reports persistent fatigue after exercise.,4
+P01277,severe vomiting started during the night and affected breathing.,3
+P01278,moderate seizure was triggered by stress at work.,1
+P01279,mild sore throat has interfered with appetite.,4
+P01280,persistent skin rash with signs of confusion.,4
+P01281,Mild mild cough reported with no other symptoms.,3
+P01282,History of intermittent dizziness worsening over two days.,4
+P01283,mild cough and dizziness reported together.,3
+P01284,persistent nausea present along with weakness.,3
+P01285,Symptoms include mild sore throat and difficulty sleeping.,5
+P01286,moderate abdominal pain started during the night and affected breathing.,4
+P01287,persistent fever was triggered by stress at work.,2
+P01288,mild fatigue was triggered by stress at work.,4
+P01289,Patient reports severe vomiting after exercise.,2
+P01290,Patient reports mild unconsciousness after exercise.,1
+P01291,mild fever was triggered by stress at work.,2
+P01292,severe vomiting with signs of confusion.,3
+P01293,intermittent cough and dizziness reported together.,5
+P01294,Symptoms started with mild chest pain and then progressed.,2
+P01295,mild chest pain with signs of confusion.,1
+P01296,persistent nausea and dizziness reported together.,3
+P01297,persistent seizure occurred with vomiting and nausea.,2
+P01298,Symptoms include intermittent nausea and difficulty sleeping.,4
+P01299,Complains of moderate headache along with mild fever.,4
+P01300,Symptoms include intermittent skin rash and difficulty sleeping.,4
+P01301,moderate dizziness was triggered by stress at work.,4
+P01302,History of mild seizure worsening over two days.,1
+P01303,moderate fatigue has interfered with appetite.,5
+P01304,persistent unconsciousness and dizziness reported together.,1
+P01305,severe cough present along with weakness.,5
+P01306,mild dizziness started during the night and affected breathing.,3
+P01307,moderate fatigue experienced without loss of consciousness.,5
+P01308,Severe persistent chest pain noted after a fall.,1
+P01309,Complaint of persistent cough after exposure to heat.,3
+P01310,severe cough was triggered by stress at work.,5
+P01311,Complaint of severe dizziness after exposure to heat.,4
+P01312,Complains of persistent headache along with mild fever.,3
+P01313,Severe persistent cough noted after a fall.,5
+P01314,mild seizure seen with stable vitals.,2
+P01315,moderate skin rash occurred with vomiting and nausea.,5
+P01316,History of intermittent skin rash worsening over two days.,4
+P01317,History of mild abdominal pain worsening over two days.,4
+P01318,moderate unconsciousness following long travel.,1
+P01319,intermittent dizziness experienced without loss of consciousness.,3
+P01320,persistent chest pain present along with weakness.,2
+P01321,severe chest pain and dizziness reported together.,2
+P01322,moderate headache experienced without loss of consciousness.,4
+P01323,Patient reports moderate vomiting after exercise.,3
+P01324,Complains of severe nausea along with mild fever.,3
+P01325,Patient reports mild nausea after exercise.,3
+P01326,Symptoms include intermittent fever and difficulty sleeping.,4
+P01327,History of mild shortness of breath worsening over two days.,2
+P01328,mild fever experienced without loss of consciousness.,2
+P01329,severe shortness of breath occurred with vomiting and nausea.,1
+P01330,History of mild chest pain worsening over two days.,2
+P01331,intermittent skin rash and dizziness reported together.,5
+P01332,Complains of moderate chest pain along with mild fever.,2
+P01333,persistent sore throat following long travel.,4
+P01334,mild cough began suddenly and is worsening.,3
+P01335,Severe severe shortness of breath noted after a fall.,2
+P01336,History of intermittent fatigue worsening over two days.,5
+P01337,persistent vomiting has interfered with appetite.,3
+P01338,mild vomiting has interfered with appetite.,2
+P01339,intermittent cough observed during daily activities.,5
+P01340,severe vomiting began suddenly and is worsening.,2
+P01341,Complaint of severe fever after exposure to heat.,2
+P01342,persistent seizure has interfered with appetite.,2
+P01343,mild fever began suddenly and is worsening.,2
+P01344,Symptoms started with persistent headache and then progressed.,3
+P01345,persistent shortness of breath with signs of confusion.,2
+P01346,Complains of persistent chest pain along with mild fever.,1
+P01347,persistent dizziness seen with stable vitals.,3
+P01348,severe nausea seen with stable vitals.,3
+P01349,Mild moderate unconsciousness reported with no other symptoms.,1
+P01350,Symptoms started with severe chest pain and then progressed.,1
+P01351,severe vomiting observed during daily activities.,2
+P01352,mild fatigue began suddenly and is worsening.,4
+P01353,intermittent cough following long travel.,5
+P01354,severe unconsciousness began suddenly and is worsening.,1
+P01355,mild fatigue observed during daily activities.,5
+P01356,severe shortness of breath following long travel.,2
+P01357,Mild moderate nausea reported with no other symptoms.,3
+P01358,severe chest pain was triggered by stress at work.,2
+P01359,Complains of persistent dizziness along with mild fever.,3
+P01360,Symptoms include moderate skin rash and difficulty sleeping.,4
+P01361,Symptoms started with severe nausea and then progressed.,3
+P01362,Severe severe trauma noted after a fall.,1
+P01363,moderate fever with signs of confusion.,2
+P01364,mild skin rash seen with stable vitals.,5
+P01365,moderate unconsciousness and dizziness reported together.,1
+P01366,severe trauma seen with stable vitals.,1
+P01367,persistent dizziness occurred with vomiting and nausea.,4
+P01368,intermittent fatigue following long travel.,5
+P01369,mild trauma has interfered with appetite.,1
+P01370,Severe moderate trauma noted after a fall.,1
+P01371,persistent fatigue seen with stable vitals.,4
+P01372,Mild persistent sore throat reported with no other symptoms.,4
+P01373,Complaint of intermittent sore throat after exposure to heat.,4
+P01374,Complains of severe seizure along with mild fever.,2
+P01375,Complains of mild vomiting along with mild fever.,2
+P01376,severe vomiting occurred with vomiting and nausea.,3
+P01377,mild abdominal pain present along with weakness.,4
+P01378,Mild moderate dizziness reported with no other symptoms.,4
+P01379,persistent cough with signs of confusion.,5
+P01380,mild unconsciousness with signs of confusion.,1
+P01381,Complaint of moderate seizure after exposure to heat.,2
+P01382,mild fever occurred with vomiting and nausea.,2
+P01383,Mild severe headache reported with no other symptoms.,3
+P01384,mild fatigue seen with stable vitals.,5
+P01385,severe unconsciousness started during the night and affected breathing.,1
+P01386,Mild intermittent unconsciousness reported with no other symptoms.,1
+P01387,Severe intermittent shortness of breath noted after a fall.,1
+P01388,Complains of persistent nausea along with mild fever.,3
+P01389,Patient reports intermittent fever after exercise.,2
+P01390,mild unconsciousness observed during daily activities.,1
+P01391,intermittent unconsciousness began suddenly and is worsening.,1
+P01392,Symptoms started with moderate fatigue and then progressed.,4
+P01393,moderate dizziness present along with weakness.,3
+P01394,moderate skin rash experienced without loss of consciousness.,4
+P01395,mild fever and dizziness reported together.,2
+P01396,intermittent fever began suddenly and is worsening.,2
+P01397,mild shortness of breath experienced without loss of consciousness.,2
+P01398,Severe moderate seizure noted after a fall.,1
+P01399,persistent unconsciousness started during the night and affected breathing.,1
+P01400,severe dizziness was triggered by stress at work.,3
+P01401,Symptoms started with mild sore throat and then progressed.,5
+P01402,intermittent dizziness with signs of confusion.,4
+P01403,persistent skin rash occurred with vomiting and nausea.,5
+P01404,Symptoms include severe skin rash and difficulty sleeping.,5
+P01405,Symptoms started with intermittent fatigue and then progressed.,4
+P01406,moderate shortness of breath following long travel.,1
+P01407,severe fever started during the night and affected breathing.,2
+P01408,Symptoms started with severe seizure and then progressed.,2
+P01409,intermittent fatigue and dizziness reported together.,5
+P01410,severe sore throat was triggered by stress at work.,4
+P01411,moderate vomiting and dizziness reported together.,3
+P01412,intermittent skin rash was triggered by stress at work.,4
+P01413,persistent fatigue and dizziness reported together.,4
+P01414,mild cough seen with stable vitals.,5
+P01415,Severe persistent abdominal pain noted after a fall.,3
+P01416,persistent nausea has interfered with appetite.,3
+P01417,moderate seizure seen with stable vitals.,1
+P01418,Complaint of intermittent chest pain after exposure to heat.,2
+P01419,moderate seizure with signs of confusion.,1
+P01420,intermittent vomiting and dizziness reported together.,2
+P01421,Complaint of severe trauma after exposure to heat.,1
+P01422,severe fever following long travel.,4
+P01423,severe cough began suddenly and is worsening.,3
+P01424,intermittent seizure following long travel.,2
+P01425,intermittent skin rash seen with stable vitals.,5
+P01426,persistent cough following long travel.,3
+P01427,Symptoms include mild vomiting and difficulty sleeping.,2
+P01428,Patient reports mild fatigue after exercise.,5
+P01429,Complaint of severe fatigue after exposure to heat.,5
+P01430,mild shortness of breath began suddenly and is worsening.,1
+P01431,mild abdominal pain was triggered by stress at work.,3
+P01432,severe unconsciousness occurred with vomiting and nausea.,1
+P01433,severe chest pain seen with stable vitals.,1
+P01434,intermittent shortness of breath was triggered by stress at work.,2
+P01435,History of moderate nausea worsening over two days.,3
+P01436,moderate cough observed during daily activities.,3
+P01437,severe fatigue following long travel.,4
+P01438,Symptoms include mild headache and difficulty sleeping.,3
+P01439,mild shortness of breath started during the night and affected breathing.,2
+P01440,intermittent skin rash started during the night and affected breathing.,4
+P01441,mild skin rash experienced without loss of consciousness.,5
+P01442,Complains of mild nausea along with mild fever.,4
+P01443,mild chest pain occurred with vomiting and nausea.,2
+P01444,persistent sore throat experienced without loss of consciousness.,5
+P01445,mild sore throat occurred with vomiting and nausea.,5
+P01446,severe skin rash started during the night and affected breathing.,5
+P01447,persistent shortness of breath has interfered with appetite.,1
+P01448,moderate abdominal pain was triggered by stress at work.,3
+P01449,persistent shortness of breath and dizziness reported together.,2
+P01450,Complains of moderate cough along with mild fever.,3
+P01451,moderate unconsciousness with signs of confusion.,1
+P01452,Patient reports severe cough after exercise.,3
+P01453,persistent nausea occurred with vomiting and nausea.,4
+P01454,mild seizure started during the night and affected breathing.,1
+P01455,moderate unconsciousness has interfered with appetite.,1
+P01456,History of mild fatigue worsening over two days.,4
+P01457,Symptoms started with moderate unconsciousness and then progressed.,1
+P01458,mild fever with signs of confusion.,4
+P01459,Complains of intermittent trauma along with mild fever.,1
+P01460,moderate headache with signs of confusion.,4
+P01461,History of persistent headache worsening over two days.,3
+P01462,moderate nausea and dizziness reported together.,4
+P01463,severe fatigue began suddenly and is worsening.,5
+P01464,Complaint of moderate dizziness after exposure to heat.,3
+P01465,mild unconsciousness occurred with vomiting and nausea.,1
+P01466,mild unconsciousness experienced without loss of consciousness.,1
+P01467,moderate nausea with signs of confusion.,3
+P01468,severe vomiting was triggered by stress at work.,2
+P01469,mild unconsciousness began suddenly and is worsening.,1
+P01470,intermittent fever seen with stable vitals.,4
+P01471,mild vomiting and dizziness reported together.,2
+P01472,moderate shortness of breath with signs of confusion.,2
+P01473,Complaint of mild vomiting after exposure to heat.,2
+P01474,History of severe sore throat worsening over two days.,5
+P01475,Severe moderate unconsciousness noted after a fall.,1
+P01476,intermittent fatigue experienced without loss of consciousness.,5
+P01477,persistent skin rash has interfered with appetite.,4
+P01478,intermittent trauma began suddenly and is worsening.,2
+P01479,Severe mild fatigue noted after a fall.,5
+P01480,Complains of persistent shortness of breath along with mild fever.,1
+P01481,mild unconsciousness has interfered with appetite.,1
+P01482,History of moderate unconsciousness worsening over two days.,1
+P01483,moderate unconsciousness observed during daily activities.,1
+P01484,Symptoms include moderate nausea and difficulty sleeping.,4
+P01485,persistent unconsciousness was triggered by stress at work.,1
+P01486,moderate shortness of breath has interfered with appetite.,2
+P01487,Mild severe trauma reported with no other symptoms.,1
+P01488,mild unconsciousness and dizziness reported together.,1
+P01489,intermittent fatigue occurred with vomiting and nausea.,5
+P01490,severe cough has interfered with appetite.,3
+P01491,Symptoms started with intermittent headache and then progressed.,4
+P01492,Patient reports persistent unconsciousness after exercise.,1
+P01493,intermittent sore throat experienced without loss of consciousness.,5
+P01494,moderate sore throat has interfered with appetite.,5
+P01495,intermittent unconsciousness present along with weakness.,1
+P01496,persistent chest pain experienced without loss of consciousness.,2
+P01497,mild trauma present along with weakness.,2
+P01498,Mild severe nausea reported with no other symptoms.,4
+P01499,severe headache started during the night and affected breathing.,3
+P01500,Symptoms started with severe dizziness and then progressed.,3
+P01501,Noted complaints of difficulty breathing. with mild discomfort,2
+P01502,Experiencing ongoing pain in arm. during travel,4
+P01503,Experiencing complaints of severe bleeding.,1
+P01504,Experiencing severe joint pain. after eating,4
+P01505,Patient reports recent back pain. after eating,4
+P01506,Patient reports episode of chest pain.,2
+P01507,Complains of ongoing numbness.,3
+P01508,Patient reports severe dizziness. while walking,3
+P01509,Experiencing unresponsive.,1
+P01510,Experiencing episode of loss of appetite. in the morning,4
+P01511,Complains of complaints of itchy skin. in the morning,5
+P01512,Experiencing severe palpitations.,2
+P01513,Patient reports episode of abdominal pain.,3
+P01514,Patient reports fainting.,1
+P01515,Observed complaints of migraine. after exercise,4
+P01516,Noted dry cough. during sleep,5
+P01517,Complains of episode of vomiting.,3
+P01518,Patient reports abdominal pain. in the morning,3
+P01519,Noted severe difficulty breathing.,2
+P01520,Experiencing ongoing swelling. during sleep,3
+P01521,Patient reports episode of numbness.,3
+P01522,Noted swelling. after eating,3
+P01523,Experiencing severe fever.,4
+P01524,Noted episode of bleeding.,1
+P01525,Patient reports complaints of shortness of breath.,2
+P01526,Observed episode of bleeding. during travel,1
+P01527,Patient reports recent swelling. with mild discomfort,3
+P01528,Noted severe vomiting. after exercise,3
+P01529,Complains of complaints of abdominal pain.,3
+P01530,Complains of severe fatigue. during travel,4
+P01531,Experiencing recent tight chest. while walking,2
+P01532,Noted muscle pain. during sleep,4
+P01533,Complains of recent stomach cramps. with mild discomfort,3
+P01534,Noted episode of severe bleeding. after eating,1
+P01535,Noted episode of loss of consciousness. with mild discomfort,1
+P01536,Experiencing recent headache.,4
+P01537,Experiencing complaints of fever.,4
+P01538,Observed complaints of difficulty breathing.,2
+P01539,Observed complaints of pain in arm. in the morning,4
+P01540,Patient reports burning sensation. during travel,3
+P01541,Experiencing tight chest.,2
+P01542,Observed recent loss of consciousness. during travel,1
+P01543,Complains of episode of mild cough. during sleep,5
+P01544,Observed episode of joint pain.,4
+P01545,Experiencing ongoing dizziness. while walking,3
+P01546,Complains of episode of high fever.,4
+P01547,Patient reports skin rash. while walking,5
+P01548,Patient reports episode of diarrhea. after exercise,3
+P01549,Patient reports complaints of palpitations. after eating,2
+P01550,Experiencing pain in arm.,4
+P01551,Noted chest pain. while walking,2
+P01552,Observed fatigue. in the morning,4
+P01553,Observed recent dry cough.,5
+P01554,Observed stomach cramps.,3
+P01555,Patient reports ongoing mild cough. with mild discomfort,5
+P01556,Experiencing fever.,4
+P01557,Patient reports episode of dizziness. while walking,3
+P01558,Patient reports ongoing muscle pain. at work,4
+P01559,Noted ongoing loss of consciousness. after exercise,1
+P01560,Observed recent pain in arm.,4
+P01561,Noted recent pain in arm. while walking,4
+P01562,Complains of recent shortness of breath.,2
+P01563,Experiencing recent speech difficulty. during sleep,2
+P01564,Patient reports complaints of headache. in the morning,4
+P01565,Complains of stomach cramps. with mild discomfort,3
+P01566,Noted episode of tight chest. at work,2
+P01567,Noted ongoing confusion.,2
+P01568,Observed recent fainting.,1
+P01569,Complains of itchy skin. after exercise,5
+P01570,Complains of ongoing speech difficulty. during travel,2
+P01571,Experiencing severe migraine.,4
+P01572,Complains of severe shortness of breath.,2
+P01573,Complains of recent confusion. during sleep,2
+P01574,Observed severe itchy skin.,5
+P01575,Patient reports complaints of numbness.,3
+P01576,Observed ongoing sore throat.,5
+P01577,Noted recent difficulty breathing. with mild discomfort,2
+P01578,Observed complaints of numbness. while walking,3
+P01579,Complains of episode of migraine. in the morning,4
+P01580,Patient reports recent blurred vision.,3
+P01581,Complains of recent burning sensation. in the morning,3
+P01582,Observed recent dizziness. while walking,3
+P01583,Noted ongoing tight chest. during travel,2
+P01584,Patient reports episode of dizziness.,3
+P01585,Patient reports palpitations. at work,2
+P01586,Experiencing speech difficulty. in the morning,2
+P01587,Noted episode of tight chest. after eating,2
+P01588,Patient reports recent bleeding. at work,1
+P01589,Noted difficulty breathing. at work,2
+P01590,Noted ongoing pain in arm. at work,4
+P01591,Patient reports ongoing tight chest.,2
+P01592,Patient reports episode of high fever. at work,4
+P01593,Complains of episode of severe bleeding. at work,1
+P01594,Complains of recent nausea. after exercise,3
+P01595,Experiencing ongoing dizziness.,3
+P01596,Experiencing recent dry cough. while walking,5
+P01597,Observed episode of shortness of breath. after exercise,2
+P01598,Noted episode of burning sensation.,3
+P01599,Complains of migraine.,4
+P01600,Experiencing severe chills.,4
+P01601,Noted ongoing mild cough. during travel,5
+P01602,Complains of ongoing abdominal pain. during sleep,3
+P01603,Experiencing panic attack. after eating,3
+P01604,Noted stomach cramps. during sleep,3
+P01605,Observed pain in arm. during travel,4
+P01606,Patient reports complaints of difficulty breathing.,2
+P01607,Experiencing episode of bleeding.,1
+P01608,Patient reports complaints of diarrhea. at work,3
+P01609,Patient reports episode of nausea. in the morning,3
+P01610,Noted severe nausea. while walking,3
+P01611,Noted episode of sore throat. at work,5
+P01612,Complains of ongoing fever. while walking,4
+P01613,Experiencing recent chills.,4
+P01614,Experiencing difficulty breathing. during sleep,2
+P01615,Noted episode of burning sensation. during sleep,3
+P01616,Observed episode of back pain. during sleep,4
+P01617,Noted ongoing loss of consciousness. at work,1
+P01618,Complains of recent palpitations. after exercise,2
+P01619,Patient reports severe stomach cramps.,3
+P01620,Noted recent shortness of breath. in the morning,2
+P01621,Experiencing ongoing blurred vision.,3
+P01622,Patient reports episode of unresponsive.,1
+P01623,Patient reports severe bleeding. after exercise,1
+P01624,Experiencing recent speech difficulty. after exercise,2
+P01625,Complains of ongoing loss of appetite.,4
+P01626,Complains of recent chest pain.,2
+P01627,Noted recent skin rash. at work,5
+P01628,Complains of stomach cramps. during travel,3
+P01629,Experiencing complaints of shortness of breath. during sleep,2
+P01630,Observed anxiety. in the morning,4
+P01631,Patient reports complaints of swelling. during travel,3
+P01632,Complains of skin rash. while walking,5
+P01633,Observed recent bleeding.,1
+P01634,Complains of severe back pain. after eating,4
+P01635,Experiencing recent difficulty breathing. in the morning,2
+P01636,Patient reports severe dry cough.,5
+P01637,Noted nausea. during sleep,3
+P01638,Experiencing complaints of dry cough. while walking,5
+P01639,Patient reports severe panic attack. at work,3
+P01640,Observed complaints of speech difficulty.,2
+P01641,Complains of severe numbness. during travel,3
+P01642,Patient reports complaints of speech difficulty. at work,2
+P01643,Observed difficulty breathing. after eating,2
+P01644,Experiencing fatigue. during sleep,4
+P01645,Complains of recent migraine. during sleep,4
+P01646,Noted episode of swelling.,3
+P01647,Observed recent severe bleeding.,1
+P01648,Complains of recent panic attack. after exercise,3
+P01649,Experiencing severe dizziness.,3
+P01650,Observed ongoing tight chest. during sleep,2
+P01651,Patient reports ongoing tight chest. while walking,2
+P01652,Experiencing complaints of speech difficulty.,2
+P01653,Complains of episode of loss of consciousness. after eating,1
+P01654,Complains of ongoing chills.,4
+P01655,Patient reports episode of chills. after eating,4
+P01656,Complains of severe burning sensation. after exercise,3
+P01657,Observed ongoing back pain. after exercise,4
+P01658,Patient reports diarrhea.,3
+P01659,Noted palpitations. after eating,2
+P01660,Patient reports ongoing headache.,4
+P01661,Observed fever.,4
+P01662,Patient reports fainting. at work,1
+P01663,Patient reports episode of loss of appetite. during travel,4
+P01664,Observed ongoing unresponsive.,1
+P01665,Observed ongoing anxiety.,4
+P01666,Experiencing severe loss of appetite.,4
+P01667,Noted recent chills. while walking,4
+P01668,Experiencing recent tight chest.,2
+P01669,Complains of severe sore throat.,5
+P01670,Experiencing ongoing dizziness. after exercise,3
+P01671,Experiencing recent itchy skin. after exercise,5
+P01672,Noted recent abdominal pain. at work,3
+P01673,Experiencing episode of diarrhea.,3
+P01674,Patient reports ongoing tight chest. with mild discomfort,2
+P01675,Experiencing ongoing joint pain.,4
+P01676,Observed episode of loss of appetite. after exercise,4
+P01677,Complains of ongoing migraine. after eating,4
+P01678,Patient reports ongoing anxiety.,4
+P01679,Complains of episode of mild cough.,5
+P01680,Noted complaints of speech difficulty. at work,2
+P01681,Experiencing complaints of abdominal pain. during travel,3
+P01682,Noted complaints of dizziness. at work,3
+P01683,Experiencing severe pain in arm.,4
+P01684,Complains of complaints of pain in arm. with mild discomfort,4
+P01685,Complains of complaints of burning sensation. with mild discomfort,3
+P01686,Complains of severe chest pain.,2
+P01687,Observed complaints of itchy skin.,5
+P01688,Observed diarrhea. at work,3
+P01689,Experiencing episode of skin rash. with mild discomfort,5
+P01690,Noted episode of headache. after exercise,4
+P01691,Noted episode of chills. with mild discomfort,4
+P01692,Observed ongoing tight chest.,2
+P01693,Patient reports nausea. while walking,3
+P01694,Patient reports fatigue.,4
+P01695,Observed complaints of diarrhea.,3
+P01696,Observed ongoing pain in arm. with mild discomfort,4
+P01697,Noted severe shortness of breath. after eating,2
+P01698,Complains of recent mild cough. during travel,5
+P01699,Noted severe abdominal pain. while walking,3
+P01700,Noted recent sore throat. with mild discomfort,5
+P01701,Complains of ongoing migraine. with mild discomfort,4
+P01702,Observed episode of palpitations.,2
+P01703,Experiencing recent blurred vision.,3
+P01704,Experiencing ongoing joint pain. at work,4
+P01705,Experiencing recent confusion. after exercise,2
+P01706,Observed episode of itchy skin.,5
+P01707,Observed complaints of palpitations. while walking,2
+P01708,Noted episode of anxiety. in the morning,4
+P01709,Noted recent anxiety.,4
+P01710,Patient reports complaints of stomach cramps. after exercise,3
+P01711,Complains of recent panic attack. while walking,3
+P01712,Patient reports recent pain in arm. at work,4
+P01713,Complains of complaints of palpitations. at work,2
+P01714,Experiencing recent palpitations.,2
+P01715,Noted complaints of swelling. during sleep,3
+P01716,Experiencing pain in arm. with mild discomfort,4
+P01717,Patient reports episode of high fever.,4
+P01718,Noted episode of shortness of breath.,2
+P01719,Experiencing panic attack. after exercise,3
+P01720,Experiencing ongoing anxiety. in the morning,4
+P01721,Observed complaints of headache. after exercise,4
+P01722,Experiencing recent joint pain.,4
+P01723,Complains of episode of high fever. in the morning,4
+P01724,Noted episode of unresponsive. at work,1
+P01725,Noted severe burning sensation. while walking,3
+P01726,Experiencing loss of appetite. while walking,4
+P01727,Noted severe loss of appetite. with mild discomfort,4
+P01728,Observed episode of dry cough. after eating,5
+P01729,Experiencing episode of blurred vision. after eating,3
+P01730,Patient reports numbness. with mild discomfort,3
+P01731,Observed fatigue. at work,4
+P01732,Experiencing ongoing sore throat. while walking,5
+P01733,Noted complaints of loss of appetite. during sleep,4
+P01734,Patient reports severe loss of appetite.,4
+P01735,Patient reports episode of difficulty breathing.,2
+P01736,Experiencing ongoing stomach cramps. during sleep,3
+P01737,Noted severe mild cough. after exercise,5
+P01738,Patient reports high fever.,4
+P01739,Experiencing complaints of migraine.,4
+P01740,Noted severe severe bleeding.,1
+P01741,Noted complaints of joint pain. with mild discomfort,4
+P01742,Complains of episode of chest pain.,2
+P01743,Observed episode of joint pain. with mild discomfort,4
+P01744,Observed episode of fever. after eating,4
+P01745,Experiencing complaints of dizziness. during travel,3
+P01746,Observed unresponsive.,1
+P01747,Complains of episode of fever. at work,4
+P01748,Experiencing episode of blurred vision. during sleep,3
+P01749,Experiencing recent chills. during travel,4
+P01750,Observed ongoing severe bleeding. after exercise,1
+P01751,Complains of episode of abdominal pain.,3
+P01752,Experiencing complaints of stomach cramps.,3
+P01753,Observed episode of high fever. after eating,4
+P01754,Experiencing high fever.,4
+P01755,Patient reports complaints of chills. while walking,4
+P01756,Complains of high fever.,4
+P01757,Observed severe back pain.,4
+P01758,Patient reports ongoing high fever. while walking,4
+P01759,Observed episode of speech difficulty. while walking,2
+P01760,Complains of complaints of headache. with mild discomfort,4
+P01761,Patient reports severe shortness of breath. with mild discomfort,2
+P01762,Patient reports vomiting. with mild discomfort,3
+P01763,Observed ongoing dry cough. in the morning,5
+P01764,Complains of ongoing vomiting. after eating,3
+P01765,Observed recent fever.,4
+P01766,Patient reports episode of itchy skin.,5
+P01767,Complains of recent dizziness. during travel,3
+P01768,Observed complaints of panic attack.,3
+P01769,Experiencing recent bleeding. while walking,1
+P01770,Patient reports episode of itchy skin. while walking,5
+P01771,Complains of ongoing headache. during sleep,4
+P01772,Complains of dry cough. with mild discomfort,5
+P01773,Complains of severe dizziness.,3
+P01774,Experiencing nausea. during sleep,3
+P01775,Observed severe abdominal pain.,3
+P01776,Patient reports complaints of blurred vision. after eating,3
+P01777,Observed palpitations. during travel,2
+P01778,Experiencing ongoing swelling.,3
+P01779,Patient reports episode of high fever. while walking,4
+P01780,Patient reports episode of difficulty breathing. while walking,2
+P01781,Complains of severe tight chest. after exercise,2
+P01782,Patient reports difficulty breathing. at work,2
+P01783,Patient reports complaints of fainting. after exercise,1
+P01784,Experiencing recent nausea.,3
+P01785,Experiencing ongoing numbness.,3
+P01786,Complains of recent muscle pain.,4
+P01787,Observed speech difficulty. while walking,2
+P01788,Observed recent dizziness. with mild discomfort,3
+P01789,Observed severe unresponsive. at work,1
+P01790,Observed complaints of stomach cramps.,3
+P01791,Complains of recent tight chest.,2
+P01792,Patient reports severe blurred vision.,3
+P01793,Patient reports panic attack. after exercise,3
+P01794,Complains of severe anxiety.,4
+P01795,Patient reports episode of fever. after exercise,4
+P01796,Experiencing complaints of shortness of breath. after eating,2
+P01797,Observed recent burning sensation. after eating,3
+P01798,Patient reports severe diarrhea. during sleep,3
+P01799,Noted recent fainting.,1
+P01800,Experiencing complaints of swelling.,3
+P01801,Patient reports episode of migraine.,4
+P01802,Observed severe severe bleeding. in the morning,1
+P01803,Patient reports dry cough. after exercise,5
+P01804,Noted recent panic attack. after exercise,3
+P01805,Noted recent headache. with mild discomfort,4
+P01806,Complains of ongoing panic attack. at work,3
+P01807,Patient reports palpitations. while walking,2
+P01808,Observed episode of vomiting. with mild discomfort,3
+P01809,Complains of recent pain in arm.,4
+P01810,Noted episode of diarrhea.,3
+P01811,Experiencing ongoing difficulty breathing. while walking,2
+P01812,Experiencing itchy skin. after eating,5
+P01813,Noted complaints of high fever. during travel,4
+P01814,Patient reports ongoing swelling. during sleep,3
+P01815,Complains of ongoing dizziness. at work,3
+P01816,Experiencing complaints of muscle pain.,4
+P01817,Noted severe blurred vision. at work,3
+P01818,Observed ongoing confusion. during sleep,2
+P01819,Patient reports recent palpitations.,2
+P01820,Observed recent severe bleeding. after eating,1
+P01821,Observed chest pain.,2
+P01822,Patient reports ongoing nausea. in the morning,3
+P01823,Noted speech difficulty.,2
+P01824,Experiencing recent sore throat. in the morning,5
+P01825,Noted severe sore throat. during travel,5
+P01826,Patient reports severe loss of consciousness. while walking,1
+P01827,Experiencing complaints of vomiting. in the morning,3
+P01828,Complains of severe headache. after exercise,4
+P01829,Experiencing ongoing sore throat.,5
+P01830,Noted ongoing shortness of breath.,2
+P01831,Observed severe stomach cramps.,3
+P01832,Patient reports severe blurred vision. at work,3
+P01833,Observed ongoing tight chest. during travel,2
+P01834,Observed severe joint pain. during travel,4
+P01835,Experiencing severe numbness. during travel,3
+P01836,Complains of severe tight chest. during sleep,2
+P01837,Experiencing episode of panic attack.,3
+P01838,Noted episode of skin rash.,5
+P01839,Experiencing recent dry cough. in the morning,5
+P01840,Patient reports ongoing sore throat. during sleep,5
+P01841,Observed complaints of palpitations. at work,2
+P01842,Experiencing episode of swelling. after eating,3
+P01843,Patient reports severe difficulty breathing. during travel,2
+P01844,Experiencing swelling.,3
+P01845,Noted recent nausea. in the morning,3
+P01846,Patient reports bleeding.,1
+P01847,Complains of severe severe bleeding. after exercise,1
+P01848,Experiencing episode of palpitations.,2
+P01849,Observed episode of skin rash. during sleep,5
+P01850,Noted complaints of panic attack.,3
+P01851,Experiencing episode of dizziness.,3
+P01852,Noted severe severe bleeding. during travel,1
+P01853,Complains of episode of speech difficulty. in the morning,2
+P01854,Complains of recent severe bleeding.,1
+P01855,Complains of severe muscle pain. during travel,4
+P01856,Experiencing episode of panic attack. after exercise,3
+P01857,Patient reports unresponsive. in the morning,1
+P01858,Observed ongoing back pain. during sleep,4
+P01859,Complains of loss of appetite. at work,4
+P01860,Patient reports recent mild cough. while walking,5
+P01861,Complains of complaints of speech difficulty. at work,2
+P01862,Patient reports severe dizziness. with mild discomfort,3
+P01863,Noted ongoing tight chest. in the morning,2
+P01864,Observed complaints of anxiety.,4
+P01865,Experiencing episode of fatigue. after exercise,4
+P01866,Complains of episode of stomach cramps.,3
+P01867,Experiencing episode of unresponsive. in the morning,1
+P01868,Noted recent migraine. after eating,4
+P01869,Observed complaints of skin rash. with mild discomfort,5
+P01870,Complains of ongoing back pain. in the morning,4
+P01871,Observed recent vomiting.,3
+P01872,Observed ongoing muscle pain.,4
+P01873,Complains of ongoing tight chest.,2
+P01874,Patient reports nausea.,3
+P01875,Experiencing episode of fatigue. during travel,4
+P01876,Noted complaints of burning sensation. in the morning,3
+P01877,Experiencing ongoing blurred vision. during sleep,3
+P01878,Noted shortness of breath. while walking,2
+P01879,Complains of diarrhea. after eating,3
+P01880,Observed shortness of breath.,2
+P01881,Patient reports recent fever.,4
+P01882,Observed episode of nausea. after exercise,3
+P01883,Complains of loss of consciousness.,1
+P01884,Observed ongoing difficulty breathing. after exercise,2
+P01885,Patient reports burning sensation. during sleep,3
+P01886,Complains of shortness of breath.,2
+P01887,Noted ongoing nausea.,3
+P01888,Observed recent numbness. after exercise,3
+P01889,Complains of complaints of fever. after exercise,4
+P01890,Patient reports ongoing diarrhea. with mild discomfort,3
+P01891,Observed back pain. in the morning,4
+P01892,Experiencing episode of panic attack. after eating,3
+P01893,Noted recent anxiety. after exercise,4
+P01894,Noted complaints of difficulty breathing.,2
+P01895,Observed numbness. after exercise,3
+P01896,Observed episode of fatigue.,4
+P01897,Patient reports ongoing blurred vision. at work,3
+P01898,Noted recent dizziness. at work,3
+P01899,Complains of recent blurred vision. with mild discomfort,3
+P01900,Experiencing sore throat. after eating,5
+P01901,Patient reports episode of muscle pain.,4
+P01902,Experiencing ongoing loss of consciousness. at work,1
+P01903,Experiencing episode of skin rash. after eating,5
+P01904,Observed ongoing mild cough.,5
+P01905,Patient reports episode of back pain. during travel,4
+P01906,Complains of recent numbness. after exercise,3
+P01907,Patient reports recent abdominal pain. during sleep,3
+P01908,Complains of loss of appetite.,4
+P01909,Noted recent dizziness.,3
+P01910,Complains of complaints of fever.,4
+P01911,Noted ongoing skin rash. at work,5
+P01912,Noted episode of migraine.,4
+P01913,Experiencing shortness of breath. after eating,2
+P01914,Complains of episode of confusion. in the morning,2
+P01915,Noted swelling. at work,3
+P01916,Experiencing recent severe bleeding.,1
+P01917,Complains of complaints of back pain. at work,4
+P01918,Noted complaints of fever.,4
+P01919,Observed complaints of loss of appetite. with mild discomfort,4
+P01920,Complains of anxiety. at work,4
+P01921,Noted recent severe bleeding. at work,1
+P01922,Noted recent palpitations. in the morning,2
+P01923,Complains of high fever. at work,4
+P01924,Complains of ongoing confusion. during travel,2
+P01925,Complains of recent unresponsive. in the morning,1
+P01926,Experiencing anxiety.,4
+P01927,Complains of dry cough.,5
+P01928,Complains of complaints of high fever.,4
+P01929,Complains of severe anxiety. in the morning,4
+P01930,Observed back pain. at work,4
+P01931,Patient reports anxiety. after exercise,4
+P01932,Noted episode of difficulty breathing.,2
+P01933,Experiencing numbness. at work,3
+P01934,Observed numbness.,3
+P01935,Patient reports recent loss of consciousness. at work,1
+P01936,Noted ongoing fainting. while walking,1
+P01937,Noted severe migraine. during sleep,4
+P01938,Patient reports episode of unresponsive. after eating,1
+P01939,Noted severe tight chest.,2
+P01940,Complains of recent anxiety. in the morning,4
+P01941,Noted ongoing migraine.,4
+P01942,Complains of complaints of fainting. while walking,1
+P01943,Noted panic attack.,3
+P01944,Complains of episode of blurred vision. at work,3
+P01945,Complains of severe unresponsive.,1
+P01946,Noted ongoing vomiting. while walking,3
+P01947,Complains of complaints of unresponsive.,1
+P01948,Noted difficulty breathing.,2
+P01949,Experiencing episode of fever. at work,4
+P01950,Complains of recent dizziness.,3
+P01951,Experiencing dry cough. after eating,5
+P01952,Complains of episode of headache. in the morning,4
+P01953,Experiencing severe headache. after eating,4
+P01954,Complains of episode of abdominal pain. during sleep,3
+P01955,Complains of ongoing fainting. during sleep,1
+P01956,Observed recent abdominal pain.,3
+P01957,Noted ongoing itchy skin. during travel,5
+P01958,Observed ongoing unresponsive. during sleep,1
+P01959,Observed severe loss of appetite. during travel,4
+P01960,Experiencing episode of swelling. after exercise,3
+P01961,Observed complaints of pain in arm. while walking,4
+P01962,Observed fatigue. during sleep,4
+P01963,Complains of severe headache. at work,4
+P01964,Patient reports severe tight chest.,2
+P01965,Experiencing ongoing speech difficulty. at work,2
+P01966,Complains of swelling. with mild discomfort,3
+P01967,Observed severe skin rash.,5
+P01968,Complains of ongoing panic attack. with mild discomfort,3
+P01969,Noted ongoing difficulty breathing. at work,2
+P01970,Noted ongoing high fever.,4
+P01971,Experiencing recent skin rash.,5
+P01972,Experiencing recent difficulty breathing.,2
+P01973,Complains of episode of chest pain. after eating,2
+P01974,Patient reports abdominal pain. after eating,3
+P01975,Observed complaints of dry cough. at work,5
+P01976,Complains of recent loss of appetite.,4
+P01977,Complains of ongoing migraine.,4
+P01978,Noted unresponsive. while walking,1
+P01979,Noted vomiting. after exercise,3
+P01980,Observed ongoing migraine. during sleep,4
+P01981,Complains of ongoing fever.,4
+P01982,Noted episode of tight chest.,2
+P01983,Complains of ongoing high fever. with mild discomfort,4
+P01984,Experiencing severe stomach cramps.,3
+P01985,Patient reports itchy skin. after exercise,5
+P01986,Experiencing ongoing shortness of breath.,2
+P01987,Observed episode of migraine. during sleep,4
+P01988,Complains of ongoing panic attack. during travel,3
+P01989,Experiencing recent nausea. with mild discomfort,3
+P01990,Complains of severe anxiety. during sleep,4
+P01991,Patient reports recent nausea. after exercise,3
+P01992,Noted recent difficulty breathing. while walking,2
+P01993,Patient reports recent tight chest. after exercise,2
+P01994,Complains of severe nausea. with mild discomfort,3
+P01995,Noted recent joint pain. after exercise,4
+P01996,Experiencing complaints of loss of consciousness.,1
+P01997,Noted episode of loss of appetite.,4
+P01998,Noted ongoing mild cough.,5
+P01999,Patient reports episode of diarrhea.,3
+P02000,Noted episode of itchy skin. in the morning,5
+P02001,Noted ongoing itchy skin. while walking,5
+P02002,Noted recent difficulty breathing.,2
+P02003,Patient reports episode of dry cough. with mild discomfort,5
+P02004,Patient reports panic attack. after eating,3
+P02005,Experiencing severe joint pain. while walking,4
+P02006,Observed ongoing swelling. after eating,3
+P02007,Observed ongoing dizziness. during sleep,3
+P02008,Complains of severe anxiety. after exercise,4
+P02009,Noted ongoing nausea. during travel,3
+P02010,Noted severe numbness. after exercise,3
+P02011,Observed severe chills.,4
+P02012,Observed ongoing chest pain.,2
+P02013,Complains of complaints of migraine.,4
+P02014,Complains of ongoing chest pain. while walking,2
+P02015,Experiencing ongoing palpitations.,2
+P02016,Complains of recent blurred vision.,3
+P02017,Observed complaints of migraine. during sleep,4
+P02018,Noted episode of mild cough. after eating,5
+P02019,Experiencing severe anxiety. after exercise,4
+P02020,Experiencing severe bleeding.,1
+P02021,Complains of recent itchy skin.,5
+P02022,Noted episode of bleeding. after exercise,1
+P02023,Patient reports episode of anxiety. during sleep,4
+P02024,Observed episode of unresponsive. in the morning,1
+P02025,Noted complaints of loss of appetite. during travel,4
+P02026,Observed ongoing fatigue.,4
+P02027,Observed recent muscle pain.,4
+P02028,Patient reports severe muscle pain. after exercise,4
+P02029,Patient reports episode of sore throat. at work,5
+P02030,Observed recent palpitations.,2
+P02031,Observed episode of high fever. during travel,4
+P02032,Patient reports episode of burning sensation.,3
+P02033,Complains of ongoing dizziness. during travel,3
+P02034,Experiencing ongoing mild cough. during sleep,5
+P02035,Patient reports ongoing chest pain. during sleep,2
+P02036,Noted headache. with mild discomfort,4
+P02037,Patient reports recent tight chest.,2
+P02038,Patient reports ongoing difficulty breathing. during sleep,2
+P02039,Complains of loss of consciousness. in the morning,1
+P02040,Patient reports skin rash. during travel,5
+P02041,Complains of severe itchy skin.,5
+P02042,Noted recent dry cough.,5
+P02043,Complains of recent back pain.,4
+P02044,Complains of ongoing stomach cramps. at work,3
+P02045,Experiencing recent vomiting. after eating,3
+P02046,Complains of episode of joint pain.,4
+P02047,Complains of complaints of loss of consciousness.,1
+P02048,Experiencing complaints of stomach cramps. during travel,3
+P02049,Observed complaints of high fever.,4
+P02050,Noted recent chills.,4
+P02051,Complains of skin rash. during travel,5
+P02052,Observed episode of joint pain. after exercise,4
+P02053,Complains of recent bleeding.,1
+P02054,Observed complaints of bleeding. in the morning,1
+P02055,Patient reports recent blurred vision. in the morning,3
+P02056,Experiencing episode of dry cough.,5
+P02057,Observed complaints of itchy skin. while walking,5
+P02058,Experiencing recent unresponsive.,1
+P02059,Complains of complaints of swelling.,3
+P02060,Observed episode of muscle pain. at work,4
+P02061,Experiencing complaints of sore throat.,5
+P02062,Noted severe high fever. at work,4
+P02063,Noted episode of migraine. at work,4
+P02064,Noted recent tight chest.,2
+P02065,Patient reports episode of fainting. at work,1
+P02066,Complains of stomach cramps.,3
+P02067,Observed episode of loss of appetite. during travel,4
+P02068,Experiencing complaints of pain in arm. while walking,4
+P02069,Observed ongoing fever. after eating,4
+P02070,Complains of episode of burning sensation. in the morning,3
+P02071,Noted ongoing abdominal pain.,3
+P02072,Complains of severe vomiting.,3
+P02073,Experiencing complaints of headache. during travel,4
+P02074,Observed ongoing burning sensation. while walking,3
+P02075,Complains of difficulty breathing.,2
+P02076,Experiencing severe chest pain. in the morning,2
+P02077,Patient reports swelling. while walking,3
+P02078,Patient reports vomiting.,3
+P02079,Complains of ongoing unresponsive. while walking,1
+P02080,Complains of episode of fainting. after eating,1
+P02081,Noted episode of muscle pain.,4
+P02082,Patient reports episode of palpitations. while walking,2
+P02083,Observed recent headache. at work,4
+P02084,Observed complaints of fatigue. during travel,4
+P02085,Experiencing ongoing anxiety. at work,4
+P02086,Observed ongoing shortness of breath. in the morning,2
+P02087,Complains of difficulty breathing. after exercise,2
+P02088,Complains of sore throat. during sleep,5
+P02089,Complains of severe mild cough.,5
+P02090,Noted severe unresponsive. with mild discomfort,1
+P02091,Noted episode of palpitations.,2
+P02092,Complains of complaints of diarrhea. with mild discomfort,3
+P02093,Patient reports ongoing burning sensation. after exercise,3
+P02094,Complains of severe nausea. during sleep,3
+P02095,Patient reports ongoing unresponsive.,1
+P02096,Noted severe skin rash.,5
+P02097,Patient reports severe numbness. during travel,3
+P02098,Experiencing recent loss of appetite.,4
+P02099,Complains of fainting.,1
+P02100,Observed complaints of palpitations.,2
+P02101,Noted complaints of fainting.,1
+P02102,Observed complaints of joint pain. during travel,4
+P02103,Observed complaints of sore throat.,5
+P02104,Experiencing severe itchy skin. during travel,5
+P02105,Patient reports severe bleeding. after eating,1
+P02106,Experiencing ongoing fainting. at work,1
+P02107,Complains of complaints of high fever. during sleep,4
+P02108,Complains of complaints of muscle pain. with mild discomfort,4
+P02109,Noted ongoing joint pain. with mild discomfort,4
+P02110,Observed episode of difficulty breathing. during sleep,2
+P02111,Noted recent migraine. in the morning,4
+P02112,Patient reports numbness. during travel,3
+P02113,Experiencing recent pain in arm. with mild discomfort,4
+P02114,Observed complaints of back pain. after eating,4
+P02115,Complains of complaints of vomiting.,3
+P02116,Noted severe migraine. while walking,4
+P02117,Noted ongoing panic attack. after exercise,3
+P02118,Patient reports speech difficulty. during sleep,2
+P02119,Noted recent fatigue. at work,4
+P02120,Patient reports shortness of breath. during travel,2
+P02121,Patient reports ongoing fever.,4
+P02122,Experiencing recent dry cough.,5
+P02123,Noted ongoing headache. in the morning,4
+P02124,Complains of severe blurred vision. at work,3
+P02125,Noted fatigue. during travel,4
+P02126,Experiencing severe bleeding. in the morning,1
+P02127,Noted ongoing severe bleeding. at work,1
+P02128,Complains of back pain. after eating,4
+P02129,Observed recent sore throat. in the morning,5
+P02130,Patient reports complaints of fatigue. at work,4
+P02131,Noted severe skin rash. during travel,5
+P02132,Complains of recent burning sensation.,3
+P02133,Complains of severe muscle pain.,4
+P02134,Patient reports confusion. during sleep,2
+P02135,Noted fatigue. at work,4
+P02136,Complains of complaints of palpitations. during sleep,2
+P02137,Patient reports episode of confusion. during sleep,2
+P02138,Patient reports swelling.,3
+P02139,Experiencing complaints of abdominal pain.,3
+P02140,Patient reports severe chest pain. while walking,2
+P02141,Noted dizziness. with mild discomfort,3
+P02142,Patient reports episode of palpitations. at work,2
+P02143,Experiencing ongoing blurred vision. after eating,3
+P02144,Complains of severe mild cough. at work,5
+P02145,Observed recent palpitations. during sleep,2
+P02146,Complains of severe fainting. in the morning,1
+P02147,Noted ongoing fainting.,1
+P02148,Patient reports recent fatigue.,4
+P02149,Experiencing chills. at work,4
+P02150,Patient reports stomach cramps. after exercise,3
+P02151,Experienced complaints of abdominal pain and ongoing dry cough after climbing stairs.,3
+P02152,Patient has been dealing with episode of abdominal pain and recent nausea since yesterday. during travel,3
+P02153,Patient noticed chills and episode of dizziness and recent muscle pain while at rest. in the morning,3
+P02154,Recent episode of episode of joint pain and ongoing palpitations during travel. during travel,2
+P02155,Ongoing signs of recent diarrhea and recent fainting and tight chest over the past few hours. after exercise,1
+P02156,Currently suffering from episode of fever and migraine with mild discomfort.,4
+P02157,Ongoing signs of ongoing blurred vision and recent dry cough and severe fever over the past few hours. after eating,3
+P02158,Experienced episode of blurred vision and episode of dry cough and complaints of loss of consciousness after climbing stairs.,1
+P02159,Complains of severe difficulty breathing and loss of consciousness after physical exertion. at work,1
+P02160,Ongoing signs of severe abdominal pain and ongoing shortness of breath over the past few hours. at work,2
+P02161,History of ongoing loss of consciousness and ongoing swelling with recurring symptoms. while walking,1
+P02162,History of abdominal pain and episode of chills and complaints of sore throat with recurring symptoms. at work,3
+P02163,Complains of severe fainting and recent palpitations and recent speech difficulty after physical exertion. during sleep,1
+P02164,Symptoms include severe chills and severe palpitations especially at night. after eating,2
+P02165,Symptoms include severe itchy skin and recent shortness of breath especially at night. after exercise,2
+P02166,Recent episode of severe dry cough and ongoing numbness during travel.,3
+P02167,Symptoms include complaints of anxiety and severe burning sensation and severe dry cough especially at night.,3
+P02168,Complains of shortness of breath and complaints of swelling after physical exertion. after exercise,2
+P02169,Complains of episode of blurred vision and complaints of itchy skin after physical exertion.,3
+P02170,Currently suffering from abdominal pain and ongoing migraine with mild discomfort. in the morning,3
+P02171,Currently suffering from ongoing back pain and recent dry cough and severe speech difficulty with mild discomfort.,2
+P02172,History of severe dizziness and pain in arm with recurring symptoms. while walking,3
+P02173,Patient noticed ongoing joint pain and recent severe bleeding while at rest. during travel,1
+P02174,Recent episode of complaints of fatigue and complaints of unresponsive during travel. after eating,1
+P02175,Experienced nausea and speech difficulty after climbing stairs. after eating,2
+P02176,Experienced recent fainting and ongoing high fever and recent stomach cramps after climbing stairs. during travel,1
+P02177,Recent episode of anxiety and complaints of nausea and recent panic attack during travel. during sleep,3
+P02178,Recent episode of confusion and recent difficulty breathing and vomiting during travel. in the morning,2
+P02179,Complains of ongoing loss of appetite and numbness and complaints of severe bleeding after physical exertion. during sleep,1
+P02180,Experienced severe fainting and severe muscle pain after climbing stairs.,1
+P02181,History of severe dry cough and episode of migraine with recurring symptoms.,4
+P02182,History of episode of dry cough and pain in arm with recurring symptoms.,4
+P02183,Reported episode of burning sensation and ongoing loss of consciousness following meal intake.,1
+P02184,History of headache and severe sore throat with recurring symptoms. after exercise,4
+P02185,Recent episode of complaints of bleeding and episode of chills and high fever during travel. after eating,1
+P02186,Recent episode of recent back pain and severe migraine during travel. with mild discomfort,4
+P02187,Experienced ongoing chills and ongoing high fever after climbing stairs. while walking,4
+P02188,Patient has been dealing with severe fainting and recent vomiting since yesterday.,1
+P02189,Currently suffering from severe burning sensation and severe severe bleeding with mild discomfort. after eating,1
+P02190,Ongoing signs of complaints of anxiety and severe confusion and dizziness over the past few hours. during sleep,2
+P02191,Complains of recent dizziness and complaints of joint pain after physical exertion. after exercise,3
+P02192,Experienced ongoing confusion and recent shortness of breath after climbing stairs. after eating,2
+P02193,Reported episode of anxiety and recent bleeding following meal intake.,1
+P02194,Symptoms include severe itchy skin and episode of pain in arm especially at night.,4
+P02195,Experienced severe burning sensation and ongoing stomach cramps after climbing stairs. in the morning,3
+P02196,Reported ongoing difficulty breathing and recent swelling following meal intake. with mild discomfort,2
+P02197,Currently suffering from recent confusion and episode of fainting and severe severe bleeding with mild discomfort. while walking,1
+P02198,History of episode of diarrhea and complaints of loss of consciousness and complaints of severe bleeding with recurring symptoms.,1
+P02199,Complains of complaints of abdominal pain and anxiety after physical exertion. after eating,3
+P02200,Experienced ongoing joint pain and episode of skin rash and recent stomach cramps after climbing stairs. during travel,3
+P02201,Patient noticed complaints of burning sensation and ongoing loss of appetite while at rest. in the morning,3
+P02202,History of ongoing loss of consciousness and severe speech difficulty with recurring symptoms. with mild discomfort,1
+P02203,Experienced ongoing dizziness and ongoing itchy skin and ongoing stomach cramps after climbing stairs.,3
+P02204,Experienced severe burning sensation and recent dizziness after climbing stairs. during sleep,3
+P02205,Reported episode of back pain and confusion and recent tight chest following meal intake.,2
+P02206,History of pain in arm and ongoing skin rash with recurring symptoms. after eating,4
+P02207,Patient noticed episode of high fever and severe sore throat while at rest. during travel,4
+P02208,Patient has been dealing with severe panic attack and ongoing sore throat since yesterday. after eating,3
+P02209,Complains of ongoing mild cough and ongoing tight chest after physical exertion. at work,2
+P02210,Recent episode of recent fatigue and episode of fever and ongoing panic attack during travel.,3
+P02211,Experienced complaints of fainting and episode of loss of appetite and severe numbness after climbing stairs.,1
+P02212,Recent episode of severe confusion and episode of tight chest during travel. with mild discomfort,2
+P02213,Patient has been dealing with episode of chills and severe confusion since yesterday.,2
+P02214,Patient noticed episode of abdominal pain and complaints of fainting and episode of migraine while at rest. during sleep,1
+P02215,Reported episode of migraine and complaints of numbness and recent speech difficulty following meal intake.,2
+P02216,Currently suffering from recent bleeding and episode of chest pain and episode of dry cough with mild discomfort. after eating,1
+P02217,Currently suffering from recent bleeding and nausea with mild discomfort. during sleep,1
+P02218,Patient noticed ongoing abdominal pain and back pain while at rest. after exercise,3
+P02219,Currently suffering from severe migraine and ongoing muscle pain and recent nausea with mild discomfort. after exercise,3
+P02220,Reported severe skin rash and recent speech difficulty following meal intake.,2
+P02221,Experienced ongoing diarrhea and stomach cramps after climbing stairs. at work,3
+P02222,Reported complaints of difficulty breathing and episode of swelling following meal intake.,2
+P02223,Symptoms include ongoing fainting and severe sore throat especially at night. during sleep,1
+P02224,Currently suffering from complaints of blurred vision and complaints of swelling with mild discomfort. at work,3
+P02225,Reported complaints of fever and severe migraine following meal intake.,4
+P02226,History of ongoing confusion and severe migraine with recurring symptoms.,2
+P02227,History of recent confusion and speech difficulty with recurring symptoms. after eating,2
+P02228,Experienced migraine and complaints of tight chest after climbing stairs. after exercise,2
+P02229,Currently suffering from episode of chest pain and recent diarrhea with mild discomfort. after exercise,2
+P02230,Reported confusion and recent diarrhea and recent sore throat following meal intake.,2
+P02231,Complains of complaints of pain in arm and complaints of sore throat after physical exertion.,4
+P02232,Patient has been dealing with episode of bleeding and recent high fever and episode of loss of appetite since yesterday. during travel,1
+P02233,Currently suffering from complaints of chest pain and episode of skin rash with mild discomfort.,2
+P02234,Patient noticed ongoing itchy skin and complaints of panic attack and episode of sore throat while at rest. during sleep,3
+P02235,Symptoms include ongoing dry cough and recent shortness of breath especially at night.,2
+P02236,Ongoing signs of complaints of joint pain and recent loss of consciousness and recent unresponsive over the past few hours.,1
+P02237,Reported complaints of joint pain and recent tight chest following meal intake. while walking,2
+P02238,Patient has been dealing with complaints of confusion and recent fatigue since yesterday.,2
+P02239,History of severe migraine and severe mild cough with recurring symptoms. at work,4
+P02240,Symptoms include complaints of nausea and ongoing stomach cramps especially at night.,3
+P02241,History of severe headache and ongoing tight chest with recurring symptoms. while walking,2
+P02242,History of muscle pain and recent skin rash with recurring symptoms. after eating,4
+P02243,Reported complaints of speech difficulty and ongoing unresponsive following meal intake.,1
+P02244,Recent episode of anxiety and severe numbness during travel.,3
+P02245,Patient has been dealing with complaints of abdominal pain and recent palpitations and episode of unresponsive since yesterday. during sleep,1
+P02246,Patient noticed episode of dizziness and complaints of joint pain while at rest. at work,3
+P02247,Ongoing signs of ongoing itchy skin and ongoing mild cough and ongoing unresponsive over the past few hours. in the morning,1
+P02248,Reported severe loss of consciousness and ongoing speech difficulty following meal intake.,1
+P02249,Reported pain in arm and episode of palpitations following meal intake. while walking,2
+P02250,Patient noticed episode of anxiety and severe chills and severe headache while at rest.,4
+P02251,Currently suffering from severe chills and complaints of confusion with mild discomfort.,2
+P02252,Currently suffering from ongoing chest pain and high fever and complaints of shortness of breath with mild discomfort. in the morning,2
+P02253,Experienced bleeding and ongoing muscle pain and episode of panic attack after climbing stairs. during travel,1
+P02254,Ongoing signs of severe bleeding and severe dizziness and severe loss of consciousness over the past few hours.,1
+P02255,Complains of severe sore throat and complaints of vomiting after physical exertion. at work,3
+P02256,Recent episode of severe chest pain and episode of dry cough during travel. while walking,2
+P02257,Patient noticed complaints of joint pain and complaints of numbness and episode of palpitations while at rest. with mild discomfort,2
+P02258,Ongoing signs of blurred vision and ongoing burning sensation over the past few hours. after exercise,3
+P02259,Reported recent burning sensation and severe loss of appetite following meal intake. after exercise,3
+P02260,History of complaints of mild cough and complaints of stomach cramps with recurring symptoms.,3
+P02261,Experienced episode of abdominal pain and ongoing unresponsive after climbing stairs. during travel,1
+P02262,Recent episode of recent loss of appetite and complaints of muscle pain during travel. after eating,4
+P02263,Recent episode of episode of anxiety and severe confusion and episode of unresponsive during travel. in the morning,1
+P02264,Reported episode of back pain and ongoing numbness and ongoing severe bleeding following meal intake.,1
+P02265,Complains of complaints of fainting and episode of migraine after physical exertion. at work,1
+P02266,History of ongoing migraine and episode of swelling with recurring symptoms. after eating,3
+P02267,Patient has been dealing with severe bleeding and episode of dizziness and complaints of mild cough since yesterday. during travel,1
+P02268,Symptoms include complaints of dry cough and ongoing loss of appetite especially at night. at work,4
+P02269,Complains of ongoing pain in arm and ongoing vomiting after physical exertion. after exercise,3
+P02270,Ongoing signs of recent mild cough and episode of unresponsive over the past few hours.,1
+P02271,Symptoms include severe fever and mild cough especially at night.,4
+P02272,Ongoing signs of complaints of bleeding and episode of nausea and complaints of palpitations over the past few hours.,1
+P02273,Recent episode of severe diarrhea and episode of severe bleeding during travel. during sleep,1
+P02274,Patient noticed anxiety and complaints of migraine while at rest. while walking,4
+P02275,Patient has been dealing with severe confusion and complaints of nausea since yesterday. in the morning,2
+P02276,Recent episode of complaints of pain in arm and complaints of unresponsive during travel. after eating,1
+P02277,Currently suffering from episode of loss of appetite and severe tight chest with mild discomfort. in the morning,2
+P02278,Reported episode of back pain and complaints of fatigue following meal intake.,4
+P02279,Recent episode of episode of palpitations and recent stomach cramps during travel.,2
+P02280,Patient has been dealing with episode of confusion and recent difficulty breathing since yesterday. after eating,2
+P02281,Patient noticed episode of abdominal pain and recent blurred vision while at rest. at work,3
+P02282,Patient has been dealing with diarrhea and muscle pain since yesterday. while walking,3
+P02283,Experienced recent difficulty breathing and swelling after climbing stairs.,2
+P02284,Patient has been dealing with episode of burning sensation and ongoing joint pain since yesterday. with mild discomfort,3
+P02285,Ongoing signs of severe diarrhea and complaints of dry cough over the past few hours.,3
+P02286,Ongoing signs of episode of difficulty breathing and severe palpitations over the past few hours. with mild discomfort,2
+P02287,Experienced ongoing fainting and episode of migraine after climbing stairs. in the morning,1
+P02288,Recent episode of severe anxiety and recent stomach cramps during travel. after exercise,3
+P02289,Symptoms include ongoing chest pain and complaints of chills and complaints of confusion especially at night. during travel,2
+P02290,Experienced severe burning sensation and diarrhea and episode of migraine after climbing stairs. during travel,3
+P02291,Symptoms include complaints of chest pain and episode of dry cough and complaints of nausea especially at night.,2
+P02292,Reported recent abdominal pain and severe back pain following meal intake.,3
+P02293,Symptoms include blurred vision and recent numbness especially at night.,3
+P02294,Patient noticed complaints of fever and severe high fever and complaints of speech difficulty while at rest.,2
+P02295,History of complaints of anxiety and numbness and complaints of panic attack with recurring symptoms. while walking,3
+P02296,Patient has been dealing with abdominal pain and recent chest pain and episode of difficulty breathing since yesterday. while walking,2
+P02297,History of recent speech difficulty and recent stomach cramps with recurring symptoms.,2
+P02298,Patient noticed episode of itchy skin and severe bleeding while at rest.,1
+P02299,Patient noticed ongoing itchy skin and ongoing stomach cramps while at rest. during sleep,3
+P02300,Recent episode of ongoing blurred vision and episode of confusion during travel. in the morning,2
+P02301,Reported confusion and complaints of high fever following meal intake. while walking,2
+P02302,Currently suffering from episode of loss of consciousness and ongoing severe bleeding with mild discomfort.,1
+P02303,Experienced recent chest pain and severe difficulty breathing after climbing stairs. after eating,2
+P02304,Patient has been dealing with diarrhea and ongoing pain in arm since yesterday. at work,3
+P02305,Complains of episode of chest pain and recent loss of appetite after physical exertion. at work,2
+P02306,Symptoms include recent abdominal pain and complaints of unresponsive especially at night. during travel,1
+P02307,Reported episode of loss of appetite and ongoing speech difficulty following meal intake.,2
+P02308,History of recent muscle pain and severe palpitations with recurring symptoms.,2
+P02309,Patient has been dealing with complaints of burning sensation and episode of migraine since yesterday. at work,3
+P02310,Reported severe fatigue and ongoing numbness following meal intake.,3
+P02311,Experienced complaints of fainting and severe panic attack after climbing stairs.,1
+P02312,History of episode of back pain and severe bleeding with recurring symptoms.,1
+P02313,Patient has been dealing with recent bleeding and complaints of panic attack since yesterday. in the morning,1
+P02314,Currently suffering from severe severe bleeding and swelling with mild discomfort. at work,1
+P02315,Ongoing signs of severe blurred vision and episode of pain in arm over the past few hours.,3
+P02316,Patient noticed ongoing anxiety and fever and severe high fever while at rest.,4
+P02317,History of complaints of burning sensation and episode of fainting with recurring symptoms. with mild discomfort,1
+P02318,Experienced complaints of anxiety and complaints of migraine after climbing stairs. after eating,4
+P02319,Recent episode of ongoing bleeding and complaints of fever during travel. during travel,1
+P02320,Reported recent blurred vision and recent difficulty breathing following meal intake. after exercise,2
+P02321,Patient has been dealing with severe migraine and severe nausea since yesterday.,3
+P02322,Complains of complaints of abdominal pain and chills after physical exertion.,3
+P02323,Currently suffering from severe abdominal pain and episode of migraine with mild discomfort. after eating,3
+P02324,Patient has been dealing with episode of swelling and complaints of unresponsive since yesterday. at work,1
+P02325,Recent episode of recent dizziness and episode of vomiting during travel. during travel,3
+P02326,Recent episode of anxiety and severe chest pain during travel. during travel,2
+P02327,Complains of ongoing mild cough and recent palpitations and ongoing severe bleeding after physical exertion.,1
+P02328,Symptoms include abdominal pain and episode of high fever especially at night. after eating,3
+P02329,Symptoms include recent abdominal pain and recent loss of consciousness especially at night. in the morning,1
+P02330,Patient noticed episode of bleeding and fainting while at rest. at work,1
+P02331,Experienced complaints of chills and severe panic attack after climbing stairs. at work,3
+P02332,Patient noticed back pain and ongoing chest pain and episode of fainting while at rest. after exercise,1
+P02333,Experienced episode of anxiety and severe itchy skin and severe vomiting after climbing stairs.,3
+P02334,Complains of chills and complaints of diarrhea after physical exertion. with mild discomfort,3
+P02335,Patient has been dealing with ongoing chest pain and numbness since yesterday. after eating,2
+P02336,Ongoing signs of recent joint pain and unresponsive and complaints of vomiting over the past few hours.,1
+P02337,History of ongoing dizziness and swelling with recurring symptoms. after exercise,3
+P02338,Reported complaints of fainting and severe headache and ongoing skin rash following meal intake. during sleep,1
+P02339,Symptoms include episode of swelling and recent unresponsive especially at night.,1
+P02340,Patient has been dealing with recent itchy skin and muscle pain since yesterday. in the morning,4
+P02341,Currently suffering from episode of chills and severe confusion and ongoing muscle pain with mild discomfort. with mild discomfort,2
+P02342,Complains of recent dry cough and episode of migraine after physical exertion. during sleep,4
+P02343,Currently suffering from recent muscle pain and recent numbness with mild discomfort.,3
+P02344,Symptoms include recent nausea and episode of sore throat especially at night. after eating,3
+P02345,Reported complaints of chest pain and severe panic attack following meal intake. while walking,2
+P02346,Ongoing signs of episode of abdominal pain and severe dizziness and severe shortness of breath over the past few hours.,2
+P02347,Complains of episode of diarrhea and episode of pain in arm after physical exertion. during travel,3
+P02348,Ongoing signs of bleeding and complaints of loss of appetite over the past few hours.,1
+P02349,Recent episode of episode of fainting and severe loss of appetite and episode of nausea during travel.,1
+P02350,History of ongoing diarrhea and episode of numbness with recurring symptoms. after exercise,3
+P02351,Reported episode of high fever and complaints of nausea and recent vomiting following meal intake.,3
+P02352,Ongoing signs of complaints of joint pain and complaints of muscle pain and severe palpitations over the past few hours. after eating,2
+P02353,Symptoms include recent chills and complaints of shortness of breath especially at night. with mild discomfort,2
+P02354,Patient noticed episode of dry cough and complaints of palpitations while at rest.,2
+P02355,Symptoms include complaints of fainting and ongoing vomiting especially at night.,1
+P02356,Currently suffering from recent dizziness and ongoing numbness and episode of severe bleeding with mild discomfort.,1
+P02357,Recent episode of recent dry cough and episode of itchy skin and complaints of mild cough during travel. after eating,5
+P02358,Experienced ongoing back pain and mild cough and complaints of palpitations after climbing stairs. in the morning,2
+P02359,Patient noticed ongoing abdominal pain and episode of loss of appetite and episode of tight chest while at rest. in the morning,2
+P02360,Reported abdominal pain and ongoing nausea following meal intake.,3
+P02361,Reported recent abdominal pain and episode of fainting and episode of stomach cramps following meal intake. during sleep,1
+P02362,Complains of recent bleeding and complaints of tight chest after physical exertion.,1
+P02363,Complains of episode of fatigue and episode of headache and severe loss of consciousness after physical exertion.,1
+P02364,Currently suffering from severe itchy skin and severe nausea and unresponsive with mild discomfort. after exercise,1
+P02365,Experienced severe loss of consciousness and severe shortness of breath after climbing stairs. during sleep,1
+P02366,Experienced recent high fever and severe vomiting after climbing stairs.,3
+P02367,Currently suffering from severe headache and complaints of loss of appetite and recent tight chest with mild discomfort. with mild discomfort,2
+P02368,Reported ongoing chest pain and episode of high fever following meal intake. during sleep,2
+P02369,History of ongoing joint pain and severe loss of consciousness with recurring symptoms. during sleep,1
+P02370,Symptoms include recent back pain and severe fainting and recent loss of consciousness especially at night.,1
+P02371,Currently suffering from complaints of chills and recent shortness of breath and recent unresponsive with mild discomfort. with mild discomfort,1
+P02372,Symptoms include dizziness and severe itchy skin especially at night.,3
+P02373,Patient noticed complaints of blurred vision and ongoing chills and complaints of fainting while at rest. during travel,1
+P02374,History of fever and numbness and complaints of pain in arm with recurring symptoms. during travel,3
+P02375,History of complaints of mild cough and episode of skin rash with recurring symptoms.,5
+P02376,Experienced recent back pain and severe diarrhea after climbing stairs. while walking,3
+P02377,Ongoing signs of complaints of headache and complaints of nausea over the past few hours. after exercise,3
+P02378,Complains of complaints of tight chest and episode of vomiting after physical exertion.,2
+P02379,History of recent bleeding and complaints of tight chest with recurring symptoms.,1
+P02380,Recent episode of severe chest pain and skin rash and severe unresponsive during travel. after eating,1
+P02381,Experienced complaints of swelling and recent tight chest after climbing stairs.,2
+P02382,Experienced severe back pain and recent pain in arm after climbing stairs.,4
+P02383,Experienced recent fainting and ongoing pain in arm after climbing stairs. during travel,1
+P02384,Patient has been dealing with ongoing loss of consciousness and severe unresponsive since yesterday. after eating,1
+P02385,History of episode of burning sensation and complaints of difficulty breathing and recent sore throat with recurring symptoms. at work,2
+P02386,Patient noticed severe joint pain and complaints of tight chest while at rest.,2
+P02387,Recent episode of ongoing pain in arm and episode of skin rash during travel.,4
+P02388,Complains of recent dry cough and severe bleeding after physical exertion. at work,1
+P02389,Reported ongoing swelling and severe vomiting following meal intake. while walking,3
+P02390,History of complaints of headache and complaints of tight chest with recurring symptoms.,2
+P02391,Ongoing signs of ongoing diarrhea and ongoing headache over the past few hours.,3
+P02392,Complains of ongoing abdominal pain and severe unresponsive after physical exertion.,1
+P02393,Recent episode of recent muscle pain and ongoing pain in arm during travel. at work,4
+P02394,Recent episode of complaints of back pain and severe migraine during travel.,4
+P02395,History of back pain and recent high fever with recurring symptoms. in the morning,4
+P02396,Reported recent high fever and ongoing speech difficulty following meal intake.,2
+P02397,Patient has been dealing with severe back pain and ongoing muscle pain since yesterday.,4
+P02398,Experienced severe anxiety and ongoing bleeding and severe headache after climbing stairs. after exercise,1
+P02399,Patient noticed ongoing diarrhea and episode of muscle pain while at rest.,3
+P02400,Complains of ongoing dizziness and severe swelling after physical exertion.,3
+P02401,Complains of severe stomach cramps and recent tight chest after physical exertion. while walking,2
+P02402,Patient has been dealing with ongoing burning sensation and severe dizziness since yesterday. during travel,3
+P02403,Complains of fatigue and episode of high fever and severe palpitations after physical exertion. during travel,2
+P02404,Experienced severe back pain and episode of unresponsive after climbing stairs. after exercise,1
+P02405,Recent episode of recent bleeding and recent confusion and recent fever during travel.,1
+P02406,Patient has been dealing with severe difficulty breathing and episode of itchy skin since yesterday. at work,2
+P02407,Complains of severe loss of appetite and recent palpitations and ongoing speech difficulty after physical exertion.,2
+P02408,Experienced ongoing diarrhea and episode of joint pain after climbing stairs.,3
+P02409,Recent episode of episode of chills and complaints of diarrhea and episode of numbness during travel. during travel,3
+P02410,Complains of severe fainting and severe sore throat after physical exertion. in the morning,1
+P02411,Complains of severe high fever and severe shortness of breath after physical exertion.,2
+P02412,Symptoms include chills and complaints of panic attack especially at night. during sleep,3
+P02413,History of severe chills and diarrhea and recent itchy skin with recurring symptoms.,3
+P02414,Ongoing signs of severe chills and recent migraine over the past few hours.,4
+P02415,Reported severe loss of appetite and episode of unresponsive following meal intake. while walking,1
+P02416,Ongoing signs of bleeding and confusion over the past few hours. during travel,1
+P02417,History of recent loss of appetite and episode of nausea with recurring symptoms. during travel,3
+P02418,Patient noticed episode of burning sensation and ongoing high fever while at rest.,3
+P02419,Reported severe blurred vision and complaints of fainting following meal intake. during travel,1
+P02420,Complains of recent burning sensation and ongoing fever and severe sore throat after physical exertion.,3
+P02421,Currently suffering from complaints of chest pain and loss of appetite with mild discomfort. in the morning,2
+P02422,Reported ongoing difficulty breathing and ongoing itchy skin and ongoing mild cough following meal intake. in the morning,2
+P02423,Recent episode of ongoing blurred vision and severe chills and severe fainting during travel.,1
+P02424,Recent episode of ongoing joint pain and episode of sore throat during travel. after eating,4
+P02425,Symptoms include recent chest pain and complaints of loss of consciousness especially at night.,1
+P02426,Symptoms include episode of shortness of breath and tight chest especially at night.,2
+P02427,Symptoms include episode of numbness and ongoing panic attack especially at night. after eating,3
+P02428,Experienced complaints of difficulty breathing and ongoing loss of appetite and complaints of shortness of breath after climbing stairs. in the morning,2
+P02429,Patient noticed complaints of joint pain and severe stomach cramps while at rest. while walking,3
+P02430,Patient noticed ongoing nausea and episode of unresponsive while at rest.,1
+P02431,Symptoms include recent dizziness and complaints of headache especially at night. in the morning,3
+P02432,Ongoing signs of recent fainting and recent skin rash and ongoing speech difficulty over the past few hours. during travel,1
+P02433,Patient noticed episode of bleeding and ongoing fatigue while at rest.,1
+P02434,Patient has been dealing with severe nausea and palpitations since yesterday. after exercise,2
+P02435,Experienced episode of dry cough and ongoing muscle pain after climbing stairs. at work,4
+P02436,Reported fever and numbness and palpitations following meal intake.,2
+P02437,History of ongoing itchy skin and complaints of speech difficulty with recurring symptoms. with mild discomfort,2
+P02438,Patient noticed shortness of breath and complaints of stomach cramps while at rest.,2
+P02439,Ongoing signs of episode of fatigue and episode of muscle pain over the past few hours. during travel,4
+P02440,Reported ongoing difficulty breathing and skin rash following meal intake.,2
+P02441,Patient has been dealing with recent confusion and difficulty breathing since yesterday. during travel,2
+P02442,Reported recent chest pain and ongoing confusion and complaints of joint pain following meal intake. during travel,2
+P02443,Currently suffering from complaints of abdominal pain and severe skin rash with mild discomfort. after exercise,3
+P02444,Experienced ongoing fever and severe vomiting after climbing stairs.,3
+P02445,Ongoing signs of recent numbness and complaints of stomach cramps over the past few hours. after exercise,3
+P02446,Reported anxiety and ongoing bleeding and complaints of severe bleeding following meal intake. at work,1
+P02447,Symptoms include recent swelling and severe tight chest and severe vomiting especially at night.,2
+P02448,Currently suffering from complaints of headache and ongoing panic attack with mild discomfort. during sleep,3
+P02449,Recent episode of recent dizziness and episode of shortness of breath during travel.,2
+P02450,Ongoing signs of episode of burning sensation and complaints of chills and complaints of nausea over the past few hours. after exercise,3
+P02451,Reported ongoing diarrhea and severe severe bleeding and severe shortness of breath following meal intake. after eating,1
+P02452,Patient has been dealing with bleeding and severe severe bleeding and ongoing speech difficulty since yesterday. with mild discomfort,1
+P02453,Recent episode of chest pain and severe stomach cramps and unresponsive during travel. after eating,1
+P02454,Symptoms include episode of bleeding and recent swelling especially at night.,1
+P02455,Patient has been dealing with episode of dry cough and ongoing unresponsive since yesterday.,1
+P02456,Ongoing signs of complaints of diarrhea and muscle pain and complaints of speech difficulty over the past few hours. in the morning,2
+P02457,Currently suffering from confusion and loss of appetite with mild discomfort.,2
+P02458,Currently suffering from episode of blurred vision and episode of loss of appetite with mild discomfort. after eating,3
+P02459,Currently suffering from recent chest pain and ongoing fever and episode of panic attack with mild discomfort. with mild discomfort,2
+P02460,Symptoms include episode of anxiety and joint pain especially at night. at work,4
+P02461,Complains of episode of migraine and palpitations and recent swelling after physical exertion. during sleep,2
+P02462,Patient noticed ongoing abdominal pain and recent difficulty breathing while at rest. at work,2
+P02463,Experienced severe confusion and episode of shortness of breath after climbing stairs.,2
+P02464,Currently suffering from severe abdominal pain and recent dizziness with mild discomfort. in the morning,3
+P02465,Experienced headache and recent vomiting after climbing stairs.,3
+P02466,Currently suffering from episode of joint pain and severe bleeding with mild discomfort. while walking,1
+P02467,Experienced abdominal pain and recent blurred vision and itchy skin after climbing stairs.,3
+P02468,Experienced recent fatigue and ongoing nausea and recent skin rash after climbing stairs. with mild discomfort,3
+P02469,Experienced ongoing dry cough and severe unresponsive after climbing stairs.,1
+P02470,Recent episode of diarrhea and episode of high fever during travel. during sleep,3
+P02471,Patient has been dealing with complaints of dry cough and itchy skin since yesterday. at work,5
+P02472,Ongoing signs of severe panic attack and recent shortness of breath over the past few hours.,2
+P02473,Currently suffering from complaints of diarrhea and loss of appetite and ongoing sore throat with mild discomfort. in the morning,3
+P02474,Patient noticed episode of fainting and ongoing itchy skin while at rest.,1
+P02475,Recent episode of ongoing bleeding and complaints of fainting during travel. while walking,1
+P02476,Experienced fainting and severe loss of appetite and recent muscle pain after climbing stairs. with mild discomfort,1
+P02477,Experienced chills and ongoing dizziness after climbing stairs.,3
+P02478,Symptoms include complaints of bleeding and ongoing swelling especially at night. in the morning,1
+P02479,Reported ongoing fainting and episode of fatigue following meal intake. after eating,1
+P02480,History of ongoing blurred vision and recent tight chest with recurring symptoms.,2
+P02481,Patient has been dealing with ongoing blurred vision and episode of pain in arm since yesterday. after eating,3
+P02482,Ongoing signs of episode of fatigue and panic attack over the past few hours.,3
+P02483,Complains of ongoing muscle pain and severe bleeding and unresponsive after physical exertion.,1
+P02484,Symptoms include complaints of bleeding and severe high fever especially at night. during travel,1
+P02485,Complains of episode of burning sensation and complaints of fatigue after physical exertion. during travel,3
+P02486,History of complaints of loss of consciousness and panic attack with recurring symptoms.,1
+P02487,Reported blurred vision and ongoing muscle pain following meal intake.,3
+P02488,Complains of severe dizziness and recent vomiting after physical exertion.,3
+P02489,Complains of confusion and recent itchy skin after physical exertion. at work,2
+P02490,Complains of severe loss of appetite and complaints of numbness after physical exertion. after exercise,3
+P02491,Complains of chills and episode of loss of appetite after physical exertion. while walking,4
+P02492,Experienced severe back pain and episode of blurred vision after climbing stairs. after exercise,3
+P02493,Complains of episode of abdominal pain and severe skin rash after physical exertion. while walking,3
+P02494,Complains of severe loss of consciousness and severe swelling after physical exertion.,1
+P02495,Recent episode of chills and recent migraine during travel. after eating,4
+P02496,History of ongoing loss of appetite and episode of palpitations with recurring symptoms. with mild discomfort,2
+P02497,Reported ongoing abdominal pain and high fever following meal intake. during sleep,3
+P02498,Currently suffering from ongoing difficulty breathing and ongoing dizziness and ongoing loss of consciousness with mild discomfort.,1
+P02499,Patient noticed severe blurred vision and recent headache while at rest.,3
+P02500,Reported episode of panic attack and recent sore throat following meal intake.,3
