@@ -1,0 +1,59 @@
+{
+    "Level 1": {
+        "precision": 0.8043478260869565,
+        "recall": 0.7956989247311828,
+        "f1-score": 0.8,
+        "support": 93.0
+    },
+    "Level 2": {
+        "precision": 0.7428571428571429,
+        "recall": 0.7222222222222222,
+        "f1-score": 0.7323943661971831,
+        "support": 108.0
+    },
+    "Level 3": {
+        "precision": 0.6923076923076923,
+        "recall": 0.6923076923076923,
+        "f1-score": 0.6923076923076923,
+        "support": 117.0
+    },
+    "Level 4": {
+        "precision": 0.6838235294117647,
+        "recall": 0.7209302325581395,
+        "f1-score": 0.7018867924528301,
+        "support": 129.0
+    },
+    "Level 5": {
+        "precision": 0.64,
+        "recall": 0.6037735849056604,
+        "f1-score": 0.6213592233009708,
+        "support": 53.0
+    },
+    "accuracy": 0.716,
+    "macro avg": {
+        "precision": 0.7126672381327113,
+        "recall": 0.7069865313449794,
+        "f1-score": 0.7095896148517353,
+        "support": 500.0
+    },
+    "weighted avg": {
+        "precision": 0.7163323090975522,
+        "recall": 0.716,
+        "f1-score": 0.7159480532213247,
+        "support": 500.0
+    },
+    "overall": {
+        "accuracy": 0.716,
+        "macro_precision": 0.7126672381327113,
+        "macro_recall": 0.7069865313449794,
+        "f1_score": 0.7159480532213247,
+        "roc_auc_macro": 0.8171662862075151
+    },
+    "config": {
+        "model_name": "emilyalsentzer/Bio_ClinicalBERT",
+        "learning_rate": 3e-05,
+        "train_batch_size": 16,
+        "eval_batch_size": 16,
+        "num_epochs": 10
+    }
+}

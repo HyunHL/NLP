@@ -1,0 +1,59 @@
+{
+    "Level 1": {
+        "precision": 0.8,
+        "recall": 0.8602150537634409,
+        "f1-score": 0.8290155440414507,
+        "support": 93.0
+    },
+    "Level 2": {
+        "precision": 0.8,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.7272727272727273,
+        "support": 108.0
+    },
+    "Level 3": {
+        "precision": 0.7321428571428571,
+        "recall": 0.7008547008547008,
+        "f1-score": 0.7161572052401747,
+        "support": 117.0
+    },
+    "Level 4": {
+        "precision": 0.6824324324324325,
+        "recall": 0.7829457364341085,
+        "f1-score": 0.7292418772563177,
+        "support": 129.0
+    },
+    "Level 5": {
+        "precision": 0.66,
+        "recall": 0.6226415094339622,
+        "f1-score": 0.6407766990291263,
+        "support": 53.0
+    },
+    "accuracy": 0.736,
+    "macro avg": {
+        "precision": 0.734915057915058,
+        "recall": 0.7266647334305758,
+        "f1-score": 0.7284928105679593,
+        "support": 500.0
+    },
+    "weighted avg": {
+        "precision": 0.7389489961389962,
+        "recall": 0.736,
+        "f1-score": 0.7349353207380371,
+        "support": 500.0
+    },
+    "overall": {
+        "accuracy": 0.736,
+        "macro_precision": 0.734915057915058,
+        "macro_recall": 0.7266647334305758,
+        "f1_score": 0.7349353207380371,
+        "roc_auc_macro": 0.829522031291354
+    },
+    "config": {
+        "model_name": "medicalai/ClinicalBERT",
+        "learning_rate": 2e-05,
+        "train_batch_size": 16,
+        "eval_batch_size": 16,
+        "num_epochs": 10
+    }
+}
